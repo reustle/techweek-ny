@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const API_URL = 'https://api.tech-week.com/list_events/?city=NYC';
-const OUTPUT_PATH = path.join(__dirname, '..', 'docs', 'events_list.json');
+const OUTPUT_PATH = path.join(__dirname, '..', 'docs', 'events_list.txt');
 
 // Utility to generate MD5 hash from a string
 function generateHash(url: string): string {
