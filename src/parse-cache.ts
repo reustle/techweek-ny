@@ -8,7 +8,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const API_URL = 'https://api.tech-week.com/list_events/?city=NYC';
-const OUTPUT_PATH = path.join(__dirname, '..', 'docs', 'events_list.txt');
+const OUTPUT_DIR = path.join(__dirname, '..', 'docs');
+const INDEX_PATH = path.join(OUTPUT_DIR, 'index.html');
 
 // Utility to generate MD5 hash from a string
 function generateHash(url: string): string {
@@ -65,6 +66,14 @@ function formatDateToEST(dateString: string): string {
   });
 }
 
+// Utility to get date string for filename
+function getDateString(date: Date): string {
+  return date.toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric'
+  }).toLowerCase().replace(' ', '_');
+}
+
 const HTML_CACHE_DIR = path.join(__dirname, '..', 'html-cache');
 
 async function fetchAndSaveData() {
@@ -74,17 +83,43 @@ async function fetchAndSaveData() {
       throw new Error(`Failed to fetch: ${response.status} ${response.statusText}`);
     }
     const data = await response.json();
-    await fs.ensureDir(path.dirname(OUTPUT_PATH));
-    await fs.writeJson(OUTPUT_PATH, data, { spaces: 2 });
-    console.log(`Data fetched from ${API_URL} and saved to ${OUTPUT_PATH}`);
+    await fs.ensureDir(OUTPUT_DIR);
+    await fs.writeJson(path.join(OUTPUT_DIR, 'all_events.txt'), data, { spaces: 2 });
+    console.log(`Data fetched from ${API_URL} and saved to all_events.txt`);
   } catch (error) {
     console.error('Error fetching or saving data:', error);
     process.exit(1);
   }
 }
 
+async function updateIndexFile(eventFiles: string[]) {
+  const links = eventFiles
+    .sort()
+    .map(file => `<a href="${file}">${file}</a>`)
+    .join('\n');
+  
+  const htmlContent = `<!DOCTYPE html>
+<html>
+<head>
+  <title>Tech Week NYC Events</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    a { display: block; margin: 10px 0; color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Tech Week NYC Events</h1>
+  ${links}
+</body>
+</html>`;
+
+  await fs.writeFile(INDEX_PATH, htmlContent);
+  console.log(`Updated index.html with ${eventFiles.length} event files`);
+}
+
 async function enrichWithDescriptions() {
-  const data = await fs.readJson(OUTPUT_PATH);
+  const data = await fs.readJson(path.join(OUTPUT_DIR, 'all_events.txt'));
   console.log(`Starting to process ${data.length} events...`);
   
   let processed = 0;
@@ -93,7 +128,8 @@ async function enrichWithDescriptions() {
   let nonPartifulEvents = 0;
   const platformStats: { [key: string]: number } = {};
   
-  const transformedData = [];
+  // Group events by date
+  const eventsByDate: { [key: string]: any[] } = {};
   
   for (const event of data) {
     processed++;
@@ -126,7 +162,7 @@ async function enrichWithDescriptions() {
       }
     }
     
-    // Transform the event data to include only the specified fields
+    // Transform the event data
     const transformedEvent = {
       event_name: event.event_name,
       start_time: formatDateToEST(event.start_time),
@@ -139,10 +175,27 @@ async function enrichWithDescriptions() {
       description: description || event.desc || null
     };
     
-    transformedData.push(transformedEvent);
+    // Group by date
+    const eventDate = new Date(event.start_time);
+    const dateKey = getDateString(eventDate);
+    if (!eventsByDate[dateKey]) {
+      eventsByDate[dateKey] = [];
+    }
+    eventsByDate[dateKey].push(transformedEvent);
   }
   
-  await fs.writeJson(OUTPUT_PATH, transformedData, { spaces: 2 });
+  // Save events to separate files by date
+  const eventFiles: string[] = [];
+  for (const [dateKey, events] of Object.entries(eventsByDate)) {
+    const filename = `events_${dateKey}.txt`;
+    const outputPath = path.join(OUTPUT_DIR, filename);
+    await fs.writeJson(outputPath, events, { spaces: 2 });
+    eventFiles.push(filename);
+    console.log(`Saved ${events.length} events for ${dateKey} to ${outputPath}`);
+  }
+  
+  // Update index.html with the new file list
+  await updateIndexFile(eventFiles);
   
   console.log(`\nProcessing complete!`);
   console.log(`Total events processed: ${processed}`);

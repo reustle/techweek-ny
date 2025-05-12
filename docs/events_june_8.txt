@@ -1,0 +1,156 @@
+[
+  {
+    "event_name": "Zub8eti [The Digital Alignment Process]",
+    "start_time": "Sunday, June 8, 2025 at 12:00 AM EDT",
+    "neighborhood": "Upper Manhattan",
+    "url": "Invite Only",
+    "hosts": "Zub8eti",
+    "target_audiences": "Investors, Engineers",
+    "themes": "AI",
+    "formats": "Pitch event / demo day",
+    "description": null
+  },
+  {
+    "event_name": "Christians*inTech Picnic",
+    "start_time": "Saturday, June 7, 2025 at 11:30 PM EDT",
+    "neighborhood": "Central Park",
+    "url": "https://partiful.com/e/ByVz39UU0XflEPTIsAKZ",
+    "hosts": "Christians*inTech",
+    "target_audiences": "Other, Engineers",
+    "themes": "Engineering, Fundraising / Investing, HR / Hiring",
+    "formats": "Networking",
+    "description": "Come hang with fellow believers in tech for a laid-back afternoon in the sun ☀️\n\nJoin us for a casual picnic where you can meet other professionals in the city, swap stories, and enjoy good company. Bring your own lunch or bites to share—blankets, frisbees, and friendly vibes encouraged!\n\nWhether you're an engineer, designer, product thinker, or just tech-curious, this is a great chance to connect in person and build community.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Yacht Party",
+    "start_time": "Sunday, June 8, 2025 at 1:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/EC5dVRA4wxWt1XT8YLxe",
+    "hosts": "The Neo Club",
+    "target_audiences": "Founders ($1-5M Raised), Investors",
+    "themes": "Fundraising / Investing, SaaS, AI",
+    "formats": "Happy Hour",
+    "description": "New York Tech Week Yacht Party • Exclusive Closing Event\n\nFor the 4th year in a row, the Neo Club is co-hosting the NY Tech Week closing party! This year, we are partnering with Tavern for an exclusive 4-hour afternoon event aboard a private mega yacht in New York Harbor!\n\nThis gathering brings together a curated mix of top founders, investors, and industry leaders for an afternoon of inspiring talks, curated networking, and exceptional views.\n\nHighlights include:\n✨ A surprise star speaker during an exclusive speaking segment\n🤝 A curated networking session with high-caliber guests\n🛥️ Cruise around the Statue of Liberty (weather permitting)\n🍸 3 full bars with a large selection of drinks\n🎁 A raffle with exciting prizes and surprises!\n\nThis isn’t just a closing party—it’s a return to that \"Delirious New York\" energy we’ve all been chasing since before the world paused. The boldness, the magic, the unexpected encounters—the kind of night that reminds you why you fell in love with this city in the first place!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nPlease note: RSVPs are required but do not guarantee admission. Boarding will proceed on a first-come, first-served basis until the yacht reaches maximum capacity."
+  },
+  {
+    "event_name": "Female Founders and Funders",
+    "start_time": "Sunday, June 8, 2025 at 4:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/8tPYW9t6HVLbXvqlheWH",
+    "hosts": "Fierce Foundry",
+    "target_audiences": "Investors, Founders ($0-1M Raised)",
+    "themes": "Women-focused, Fundraising / Investing",
+    "formats": "Happy Hour",
+    "description": "Join us for the Female Founders & Funders Networking Event! \n\n​Get inspired! Female founders can meet potential investors, and investors can discover exciting new ventures. PLUS a portion of your ticket will go towards the prize for our female hackers!\n\n​Fierce Foundry (@fiercefoundry) is a venture studio that co-founds startups with female FemTech founders by providing them with initial seed investment, resources for product and business development, and support for later-stage fundraising.\n\n\n\n​Luminary (@weareluminary) is a first-of-its-kind, gender-inclusive, global professional education and networking platform created to address the systemic challenges impacting women and our allies across all industries and sectors. Our mission is to uplift, upskill, and propel our community forward through all phases of their professional journeys, from entrepreneurship to transition to navigating your path in the traditional workplace and everything in between. Luminary is an ecosystem driven by women, for all.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Drinks First x TechBreakfastClub: Return the Fund",
+    "start_time": "Sunday, June 8, 2025 at 4:00 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/9iqAEPxOJhyJ7iNSgfoM",
+    "hosts": "Drinks First",
+    "target_audiences": "Creators, Founders ($1-5M Raised), ",
+    "themes": "Creators, Media / Entertainment, Fundraising / Investing",
+    "formats": "Happy Hour",
+    "description": "Join Drinks First x Tech Breakfast Club for an exclusive closing party for NY Tech Week at one of NYC’s hottest venues. \n\nStrict Guest List only. Indicate interest on partiful- we will send out a ticket link later.\n\nEVERY GUEST MUST APPLY, BE APPROVED, AND PURCHASE A TICKET TO COME. \n\nIF YOU DO NOT HAVE A TICKET, YOU WILL NOT BE ALLOWED IN. \n\n[TICKET LINK TBA]\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Impact Investment Lunch",
+    "start_time": "Saturday, June 7, 2025 at 11:30 PM EDT",
+    "neighborhood": "Tribeca",
+    "url": "https://partiful.com/e/gQIEhcSCZaULpfSlx2F0",
+    "hosts": "NEW MOON Impact Productions",
+    "target_audiences": "Investors, Creators",
+    "themes": "Fundraising / Investing, Climate, Media / Entertainment",
+    "formats": "Breakfast, Brunch or Lunch",
+    "description": "Alongside New York Tech Week & the Tribeca Film Festival with a focus on funding innovative (profitable & sustainable) solutions toward real world problems and supporting United Nations Sustainable Development Goals.\n\n​​Join us on June 8th for an Impact Investment lunch with international leadership in funding for innovation & creative activism including members of NEW MOON's Impact Investment team to meet new impact investment community connections and learn about different investment communities & trending impact opportunities in the US and abroad.\n\n​This event is for impact investors & producers only. Impact investors are invited to purchase a ticket, space for impact producers is invitation only and must be pre-approved by our executive team.\n\n​Includes a sneak peak program with exclusive pre-release trailers for NEW MOON's upcoming projects, and featured projects from participants (selected based on their support for United Nations Sustainable Development Goals). Participants will also be provided a complementary 1 on 1 remote meeting with a NEW MOON executive producer to discuss strategy for making an impact through their work.\n\n​​​NEW MOON is a nonprofit organization supporting United Nations Sustainable Development Goals through Creative Activism, including filmmaking. Our team is specialized in trend forecasting, building campaigns that capitalize on cultural momentum to effect lasting change.\n\n​​For more about NEW MOON visit our website www.newmoonfilms.com\n\n​This is a part of our fellowship events series. Your ticket cost includes lunch and a donation towards NEW MOON's programs. NEW MOON's fellowship program promotes sober networking opportunities amongst creatives so alcohol must be purchased separately. If you are struggling with sobriety and would like additional support throughout the Tech Week or the Tribeca film festival please connect with NEW MOON program coordinator Aleshia Battle at aleshia@newmoonfilms.com.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "SMART TIMES: AGI DISRUPTS MEDIA",
+    "start_time": "Saturday, June 7, 2025 at 10:00 PM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/LrM4tpwFwYt1LQfE1Ksg",
+    "hosts": "Metaverse Fashion Council",
+    "target_audiences": "Founders ($0-1M Raised), Investors",
+    "themes": "Crypto / Web3, AI, Creators",
+    "formats": "Pitch Event / Demo Day",
+    "description": "SMART TIMES - revolutionary media operated by AI Decentralized Agents (AIDA) - invites VC funds, startups, and creators to cooperate in decentralized promotion on true and honest information. \nSMART TIMES revolutionizes how news is generated, delivered, and valued. It extracts and distills honest news from the overwhelming noise of global media, focusing solely on information that truly matters. Using Proof of Truth algorithms, Smart Times builds a firewall against all forms of misinformation — filtering out lies, propaganda, vanity, and distortion — and generates a news stream as decentralized and trustworthy as Bitcoin nodes. This creates an essential knowledge base for users to act, cooperate, and invest wisely.\nSMART TIMES incentivizes its end users by rewarding them with SATs or satoshis. \nSTACK SATS! \nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Fashion & Creatives Coffee",
+    "start_time": "Saturday, June 7, 2025 at 10:00 PM EDT",
+    "neighborhood": "Chelsea",
+    "url": "https://partiful.com/e/4bRIWZhlBX7VQeCqtEtw",
+    "hosts": "Icon New York",
+    "target_audiences": "Product, Investors",
+    "themes": "Creators, AR / VR, Media / Entertainment",
+    "formats": "Breakfast, Brunch or Lunch",
+    "description": "📣 Calling all founders, designers, developers and marketing professionals across fashion and tech! If you're the kind of person who's always coming up with ideas and want to find the right people to manifest them into reality, this is for you. Who knows, you might meet your new co-founder, designer, or best friend.\n\nTech week is wrapping up. Let's take a moment to recover and recap the amazing week! Grab your coffee - we're sashaying all the way down the glorious High Line in Chelsea for some beautiful views and great conversation.\n\nWe'll also have some zesty recovery libations + a raffle giveaway - so come early!\n\n*Not exclusive to the creative community; everyone is welcome!\n\n----\n​PS - We’re growing! Follow our IG @icon.newyork and Luma calendar at https://lu.ma/icon.newyork to stay in the loop.\n\nMake sure you check out our Tech Week mixer as well:\nhttps://partiful.com/e/ECUnHbii0dwBZMJTcf8y\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nBy RSVP’ing, you agree to be added to the host's email list."
+  },
+  {
+    "event_name": "2025 Recovery Mode Activated",
+    "start_time": "Sunday, June 8, 2025 at 6:30 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/CBHWBU4NiTB1HFPdIIO4",
+    "hosts": "AskPetal",
+    "target_audiences": "Investors, Founders ($5M+ Raised)",
+    "themes": "Healthcare / Healthtech, B2C / Consumer, Media / Entertainment",
+    "formats": "Experiential",
+    "description": "​After a high-energy week of building, pitching, and powering through NYC Tech Week—come reset with AskPetal.\n\n​We’re hosting an exclusive recovery experience at one of NYC’s most luxurious wellness spa's in SoHo.\n\n​Expect a multi-sensory evening of full-body restoration and mindfulness.\n\n​Unwind with:\n\n​🧊 Cold plunge \n​🔥 Infrared sauna & eucalyptus steam \n♨️ hot tub \n\n​🍹 Curated recovery mocktails & adaptogen infused elixirs\n​🥬 Nourishing bites & detoxifying snacks\n\n​🎁 Gift bags packed with Petal-approved recovery treats for first guests\n\nGuests will also receive a discount code for spa services, massage, facial, to use exclusively for Tech Week. \n\n​Spots are limited—RSVP early to reconnect with your body, meet thoughtful builders, and leave feeling better than ever. \n\n🩱Swimsuit required. \n\nLocation disclosed after RSVP approval. \n\nNo +1's, registration required for entry.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
+  },
+  {
+    "event_name": "Musa Labs Borough Brlitz Hackathon: Midtown (June 6,7,8)",
+    "start_time": "Saturday, June 7, 2025 at 9:00 PM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/vOQ305jM3tokj9RWeQRL",
+    "hosts": "Musa Capital, Microsoft Azure",
+    "target_audiences": "Engineers, Students",
+    "themes": "AI",
+    "formats": "Hackathon",
+    "description": "​Join us for the Musa Labs AI Hackathon, a high-intensity, 3-day challenge where engineers, developers, and AI innovators come together to build the next generation of AI solutions. Powered by Microsoft Azure, this event is designed to push the boundaries of AI development, offering participants the opportunity to work on real-world challenges, connect with industry experts, and win exciting prizes.\n\n​📅 Dates: March 27, 2025\n📍 Location: Time Square\n🎯 Focus Areas: AI-powered applications, generative AI innovations, automation, and enterprise AI solutions.\n🏆 Prizes:\n\n​$10,000 in Azure credits for winners\n\n​Exclusive go-to-market consulting engagement with Musa Capital\n\n​Opportunity to showcase projects to investors & industry leaders\n\n​Hackathon Format\n\n​🔹 Day 1: Team Formation & Solution Design\n\n​Kickoff session with challenge briefs and keynote speakers\n\n​Formation of teams based on skills and interests\n\n​Initial brainstorming and solution design phase\n\n​🔹 Day 2: Build & Iterate\n\n​Hands-on development using Azure AI tools & Microsoft services\n\n​Mentorship and technical support from Azure and Musa Capital experts\n\n​Mid-day check-in and feedback sessions\n\n​🔹 Day 3: Presentation & Awards\n\n​Final project submissions and live demonstrations\n\n​Pitch session in front of investors, VCs, and AI leaders\n\n​Awards ceremony with prize distribution\n\n​Why Participate?\n\n​✅ Work with cutting-edge Azure AI tools\n✅ Solve industry-relevant AI challenges\n✅ Network with top engineers, AI experts, and investors\n✅ Gain hands-on experience and visibility in the AI space\n\n​🚀 Ready to build the future of AI? Join us at Musa Labs AI Hackathon!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Rhythm & Recharge Zumba",
+    "start_time": "Saturday, June 7, 2025 at 8:00 PM EDT",
+    "neighborhood": "Flatiron",
+    "url": "https://partiful.com/e/Cck4SxYuqlM8AlivkE7B",
+    "hosts": "STEM Recharge, Fabletics",
+    "target_audiences": "Engineers, HR",
+    "themes": "Healthcare / Healthtech, HR / Hiring",
+    "formats": "Roundtable / Workshop",
+    "description": "Move, Energize & Have Fun!\n\nStep into a high-energy Zumba session led by Rasheeda Allan, in collaboration with STEM Recharge & Fabletics! Designed for Tech professionals, this class blends movement, music, and community to refresh your body and mind.\n\nWhat You’ll Get:\n✔️Complimentary in-store dance workout\n✔️ Light refreshments \n✔️Exclusive Fabletics shopping discount\n\nFollow us on IG: STEM Recharge to stay in the loop + join our free community launching soon!\nwww.stemrecharge.com\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Paint & PE",
+    "start_time": "Sunday, June 8, 2025 at 5:00 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "Invite Only",
+    "hosts": "Tide Rock",
+    "target_audiences": "Investors, Founders ($1-5M Raised)",
+    "themes": "AI, GTM, Media / Entertainment",
+    "formats": "Experiential",
+    "description": null
+  },
+  {
+    "event_name": "Culture in Tech",
+    "start_time": "Sunday, June 8, 2025 at 5:00 AM EDT",
+    "neighborhood": "Brooklyn",
+    "url": "Invite Only",
+    "hosts": "Kultura",
+    "target_audiences": "Investors, Creators",
+    "themes": "Creators, AI, Media / Entertainment",
+    "formats": "Happy hour",
+    "description": null
+  },
+  {
+    "event_name": "Doggy Paddle on the Hudson!",
+    "start_time": "Sunday, June 8, 2025 at 1:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/bie9JaIxKPTzznH7rtQv",
+    "hosts": "Social Paws",
+    "target_audiences": "Students, Creators, ",
+    "themes": "Healthcare / Healthtech, Creators, B2C / Consumer",
+    "formats": "Experiential",
+    "description": "Grab your paddle (& maybe a pup!) & join us for a splashy summer adventure of kayaking & paddleboarding w/ dogs along the iconic NYC skyline.\n\nWhether you’ve got a dog or just love being around them, this event is open to dog owners & dog lovers alike. Come with a pup, friend, or solo!\n\n$45 per human (whether you paddle solo or share a kayak!) — pups float free 🐾🛶” \nReserve your spot here: https://SocialPaws.as.me/DoggyPaddle\n\n🌊 Included:\n• Kayak or paddleboard rental (w/ space for pups!)\n• Professional photos of ur adventure\n• Shoreline games & dog-friendly fun\n• Tasty bites, drinks, & treatos\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  }
+]
