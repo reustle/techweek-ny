@@ -1,14 +1,25 @@
 [
   {
-    "event_name": "NY AI Founders and Investors Forum",
+    "event_name": "Seed to Series Shuffle: A Night at Electric Shuffle",
+    "start_time": "Tuesday, June 3, 2025 at 7:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/4JV5hgtu7deWyq4K5yyz",
+    "hosts": "Reitler",
+    "target_audiences": "Founders ($0-1M Raised), Investors",
+    "themes": "AI, Creators, GTM (marketing sales growth)",
+    "formats": "Panel event or fireside chat",
+    "description": "AI is reshaping industries faster than ever — but building enduring AI-native companies takes more than just a great model. Join leaders from Reitler, Elise AI, and Enaic Ventures for an honest conversation about what it takes to start, fund, and scale AI companies today. We’ll discuss lessons from the front lines:\n\nWhat makes an AI startup attractive to investors now?\n\nHow do founders differentiate in a crowded AI market?\n\nLegal landmines AI companies need to watch out for\n\nBuilding with responsible AI practices from day one"
+  },
+  {
+    "event_name": "AI Startup Demo & Vibe - Databricks",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Midtown",
-    "url": "Invite Only",
-    "hosts": "Optimize AI",
-    "target_audiences": "Investors, Founders ($1-5M Raised)",
-    "themes": "AI, SaaS, B2B",
-    "formats": "Networking",
-    "description": null
+    "url": "https://partiful.com/e/ry0RUjzk1u2yczo4X2GY",
+    "hosts": "Databricks",
+    "target_audiences": "Engineers, Founders ($5M+ Raised)",
+    "themes": "AI, Infrastructure, SaaS",
+    "formats": "Panel / Fireside Chat",
+    "description": "More than half of VC dollars are going to AI and ML Startups. Are you interested in what some of these newly founded startups are building? \n\nJoin us for a fun night of demos by dynamic early-stage AI startups and a chance to mingle with leaders and enthusiasts in the community. We'll be having lightning (15 min) demos from Athena Intelligence, LinqAlpha, subconscious.ai, and more! \n\nWho Should Come:\n- Founders and members of early-stage startups\n- Technical practitioners\n- Tech enthusiasts interested in early-stage AI startups\n\nHow We'll Flow:\n6:00-6:30: Come in, grab some refreshments, meet and mingle\n6:30-7:30: Lightning demos\n7:30-9:00: More meeting and mingling \n\nAbout Databricks:\n​​Databricks helps startups accelerate innovation and time-to-market by allowing them to focus on building their core products instead of managing complex data infrastructure. This year, we're excited to announce our new Startup Program which includes $50K in credits, technical advisory, and GTM support.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Memelord Technologies Late-Night Memeathon",
@@ -22,8 +33,19 @@
     "description": "The lonely memer frees his mind at night. Come make late-night memes with Jason and the https://memelord.tech mafia at Whop HQ \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Fire & Ice: Breath, Plunge, & Sauna @ Othership",
+    "start_time": "Monday, June 2, 2025 at 5:45 PM EDT",
+    "neighborhood": "Flatiron",
+    "url": "Invite Only",
+    "hosts": "BetternessAI",
+    "target_audiences": "Creators, Investors",
+    "themes": "AI",
+    "formats": "Experiential",
+    "description": null
+  },
+  {
     "event_name": "Building Beyond: Tech's Infrastructure Frontier",
-    "start_time": "Tuesday, June 3, 2025 at 3:30 AM EDT",
+    "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
     "neighborhood": "Midtown",
     "url": "https://partiful.com/e/OlfWwDCFPH9pP6WQelTu",
     "hosts": "53 Stations",
@@ -53,6 +75,17 @@
     "themes": "Fintech, B2C / Consumer, Cybersecurity",
     "formats": "Happy hour",
     "description": null
+  },
+  {
+    "event_name": "  A Seat at the Table: Women in Tech Panel Discussion",
+    "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/KvsWpsaHE3CJtfiGSqhE",
+    "hosts": "AWS , Per Scholas New York",
+    "target_audiences": "Other, HR",
+    "themes": "Women-focused",
+    "formats": "Breakfast,  Brunch or Lunch",
+    "description": "Join AWS and Per Scholas New York for an inspiring Women in Tech event during NY Tech Week!  In the conversation, we will explore career paths and experience, workplace dynamics, and a little bit of AI. Networking and a Cocktail Reception will follow.\n\nDon’t miss this opportunity to connect, learn, and be inspired by women leading in the tech industry! \n\nAgenda: \n3:30 pm - 4:00 pm Registration \n4:00 pm - 4:30 pm Welcome and Introductions \n4:30 pm - 5:00 pm Keynote Speaker \n5:00 pm - 6:30 pm Panel Discussion + Q&A\n6:30 pm - 8:00 pm Networking and Cocktail Reception \n\nCo-hosted by Amazon's Black Employee Network (BEN) and Per Scholas New York.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "a16z speedrun Marketing Office Hours",
@@ -99,7 +132,7 @@
     "description": "While most of the world is chasing AI hype, the real transformation is happening quietly in the systems that power our public institutions and care delivery. It’s not flashy. It’s not viral. But it's foundational.\n\nJoin Tusk Ventures for Breakfast & Morning Brew at a local, independent bookstore to discuss how AI is reshaping two of the most complex, regulated sectors in the country: healthcare and government.\n\nWe’ll hear from the founders of two breakout startups at the frontlines:\n\nMatt Pavelle @ Doctronic – an AI-powered health assistant making clinical-grade insights and affordable care available instantly and anonymously.\n\nAugust Chen @ Hazel AI – an AI-native platform helping governments automate procurement and RFP workflows modernizing how billions of public dollars get spent.\n\nModerated by Political Strategist and Tusk Ventures Founder Bradley Tusk, we’ll explore what it really takes to build in high-stakes environments where compliance isn’t optional, trust is everything, and the end user might be a city, a school district, or even you.\n\nThis conversation will tackle:\n\n- What “real-world” AI looks like in practice\n- How startups earn trust in regulated industries\n- Why the next wave of AI adoption will happen behind the scenes\n- What policymakers and founders need to understand about each other\n\nDebating if you should come? Here's who should join:\n\n- Founders and operators building in regulated industries (AI, govtech, healthtech, fintech, edtech)\n- Policymakers, procurement officials, and public sector decision-makers\n- Investors looking for durable AI bets\n- Journalists, civic tech leaders, and anyone curious about how AI is reshaping the public-private interface\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "AI Investors & Founders hosted by Madeline & Co. + AllianceBernstein",
+    "event_name": "AI Investors & Founders hosted by Madeline & Co.",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Hudson Yards",
     "url": "https://partiful.com/e/teONOVzkdNM5VWaJj3Xz",
@@ -110,7 +143,7 @@
     "description": "Check out all 7 of our events below—plus our Speakeasy Pop-Up Co-Working Lounge!\n--\nHosted by Madeline & Co., in partnership with AllianceBernstein, this private gathering brings together leading investors and AI founders building the next wave of applied innovation—curated by Prince Rumi.\n\nExpect sharp conversations, meaningful connections, and a room of 100 hand-selected guests shaping the future of tech.\n\nDrinks, bites, and real talk about what’s actually working—and what’s coming next.\n\nMany thanks to Amanda Beebe and her team at AB to supporting NYC's tech ecosystem.  \n\nAmanda Beebe: https://bit.ly/3EM4veG\nAllianceBenstein: https://bit.ly/436YVgV \n\nMadeline & Co. is the AI-native platform for teams that move fast—unifying strategy, design, and product into one seamless flow.\n\n**For sponsorships and media inquiries please email connect @ strategy.market \n\nhttps://www.linkedin.com/in/princerumi/\nhttps://x.com/princeruminyc\n\n\nWant in early? Sign up for access to Madeline, the world’s first AI-native innovation platform for strategy, design, and product—all in one.\n\nhttps://www.madeline.one/waitlist\n\nCo-hosted by Strategy Market, as part of the Excelsior Edge series—making NYC’s tech ecosystem a little more strategic, one unforgettable night at a time.\n\nOur Events List:\n\nStartup Brand Strategy Workshop - May 16th\nhttps://partiful.com/e/YhvBiJLXu5Bw0EOAsy5U\n\nMadeline & Co—Working Speakeasy Pop-Up Lounge: https://partiful.com/e/NOBV6vD6DzTmUkERTGTM\n\nTech Week Opening After Party at GOSPËL\nhttps://partiful.com/e/fR6UyIvV5GSxYiYJDwe9\n\nAI & E-Com Panel + Startup Pitches\nhttps://partiful.com/e/7Ye8tuXHTYur0eDlhuRY\n\nCocktails & Cash: A Female Founders Speakeasy\nhttps://partiful.com/e/vE8pULOFKMiHTbwp1WU1\n\nClosing Party #NYTechWeek\nhttps://partiful.com/e/P2ItZdgU4yznbi6Wdk39\n\nBuild Your Dream Hackathon (for Non-Coders!)\nhttps://partiful.com/e/kEqXW8zKeHEHvgPB0bJ1\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Rise & Shine Yoga: Hormone Health, presented by Agua Plus",
+    "event_name": "Rise & Shine Yoga: Hormone Health",
     "start_time": "Monday, June 2, 2025 at 6:30 PM EDT",
     "neighborhood": "Brooklyn",
     "url": "https://partiful.com/e/Z9grP2Gm6WXZOrA0itNz",
@@ -119,6 +152,17 @@
     "themes": "Women-focused",
     "formats": "Networking",
     "description": "Step away from the screens and into a space of movement, breath, and mindfulness! Our free yoga and meditation class is designed to help NY Tech Week attendees reset, refocus, and re-energize. Whether you're a seasoned yogi or a beginner, this session will leave you feeling balanced, refreshed, and ready to take on the rest of the week with clarity and ease. Let’s flow, breathe, and elevate together!\n\nThis year’s wellness session will be focusing on women’s hormone health. Join us for a one hour yoga class geared to balance out your hormones, and stick around for a thoughtful discussion from innovative brands leading the space in women’s health. \n\nThis class will be held at Sound Mind Center in Brooklyn.\n\nCapacity of the venue is limited to 80 people. Your RSVP does not guarantee entry however we’ve never turned anyone down. \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Death of a Job: Mastering the Future of Work",
+    "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
+    "neighborhood": "Upper Manhattan",
+    "url": "https://partiful.com/e/4Ba6LSIqSyaNDh3I0OR6",
+    "hosts": "Digital Mind State",
+    "target_audiences": "Creators, Marketing / Comms",
+    "themes": "Creators, Media / Entertainment, AI",
+    "formats": "Panel event or fireside chat",
+    "description": "The \"Hip Hop Futurist\" Mike Johns, a leading voice in technology, innovation, and culture will read an excerpt from the children's version of his upcoming book, \"Death of a Job: The Future of Work in the Age of AI.\" The book dives into the evolving relationship between artificial intelligence and the workforce, exploring topics like the death of traditional jobs, the rise of the creator economy, AI's impact on women and marginalized communities, and the potential of universal basic income. \n\n4PM-5PM: \"Big Red Chair\" Reading Session w/ Mike Johns\n5PM-6PM: Presentation & Q&A - STEM & E-sports\n6PM-7PM: Presentation & Book signing with Mike Johns\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "FashionTech Happy Hour",
@@ -165,6 +209,17 @@
     "description": "Come join us for a cocktail mixer and small bites for the chance to meet New York City's earliest founders and investors.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Honest Founder Dialogues",
+    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
+    "neighborhood": "Flatiron",
+    "url": "https://partiful.com/e/qu22bX8paF5bTVZbM1rW",
+    "hosts": "Pando Pooling",
+    "target_audiences": "Founders ($1-5M Raised), Founders ($5M+ Raised)",
+    "themes": "B2C / Consumer, B2B",
+    "formats": "Workshop / roundtable",
+    "description": "Step away from the noise of Tech Week and into something more real.\n\nJoin us for an off-the-record evening designed exclusively for founders. We’re bringing together 20 exceptional entrepreneurs (Seed to Series B) for an intimate experience that goes beyond surface-level networking.\n\nThis curated gathering invites you to connect through honest conversation and meaningful reflection, with no pitches, no panels, and no posturing.\n\nYou’ll be matched in smaller peer groups for guided discussions led by experienced facilitators. Through thought-provoking prompts, founder-to-founder dialogue, and a few unexpected touches, this is your chance to step into a space built on trust, curiosity, and shared experience.\n\nWe’re focusing on founders who are Seed stage or beyond, or generating at least $500K in annual revenue. \n\nIt’s also an opportunity to experience what Pando’s founder peer groups are all about.\n\nFood and drinks will be served throughout the evening to create a relaxed, welcoming atmosphere.\n\nBy application only.\n\n---\n\nAbout Pando\n\nPando offers a one-stop shop for founders to get the peer community and support they need to be successful. We match you with a cohort of 8–10 impressive founders interested in building enduring relationships with brilliant and ambitious peers.\nWe have a network of 300+ extraordinary founders, who have raised from 750+ unique investors. Our founders have raised $3.6B and run companies valued at ~$8B.\n\n---\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Terminal Time Trial",
     "start_time": "Tuesday, June 3, 2025 at 12:00 AM EDT",
     "neighborhood": "Midtown",
@@ -187,7 +242,7 @@
     "description": "Join Sequence, Rillet, Taxwire, and Ramp for an exclusive, invite-only session with Finance & RevOps leaders from leading AI, SaaS, and Fintech scaleups to see where modern teams are actually driving impactful automation across their recurring workflows.\n\n​​​​​🕕 Event Schedule:\n6:00 - 6:30: Arrival, drinks, and light bites\n6:30 - 6:50: Teasers of the latest CFO stack AI releases and a look at what's coming up for the rest of 2025\n6:50 - 7:15: Panel discussion on where AI and automation is driving the highest impact across the CFO stack\n7:15 - 8:00: Drinks, canapés, and further networking\n\nSpots are limited, apply to join us today. Hope to see you there!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
-    "event_name": "What VCs Want, But Accelerators Don’t Teach You",
+    "event_name": "What VCs Want, But No One Teaches You",
     "start_time": "Monday, June 2, 2025 at 9:00 PM EDT",
     "neighborhood": "Midtown",
     "url": "https://partiful.com/e/iq4MJJzZN0rfOqEOr2im",
@@ -264,6 +319,17 @@
     "description": "Mindful Movement is an interactive dance workshop exploring the correlation between dance and fitness through the lens of house and hip hop dance. This workshop is designed to engage tech professionals, creatives, and wellness enthusiasts in a refreshing break from traditional networking. \n​​​Followed by an AMA with founder NutellaK.\n\nWhat to Expect ⬇️\nTraining the Ear: Musicality Tactics\nCatching the Groove(s): Prioritizing Feeling\nLabbing the Move(s): Drilling Foundation\nExploring the Power: Strength and Conditioning\nChallenging Dynamics: Levels, Textures & More\n\nSpots are limited, RSVP today\n\nAbout the Artist \nNutellaK is an interdisciplinary dance artist, educator and founder of GETFITNK, a digital platform created in the midst of a global pandemic to help others stay connected to their bodies. She graduated from the University of the Arts, receiving her BFA in dance with an associate in business. NutellaK has choreographed for dance organizations including National Dance Institute, Bella Ballerina Dance Academy, and independently. Her works have been premiered throughout Philadelphia and New York City in both proscenium and experimental settings.\n\nThis event is sponsored by 44ROCH, a dynamic event production startup focused on immersive events and operating on the universal truth that community is active. \n\n\nSee you at Tech Week! 😎✌️\n\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "NY Tech Week Happy Hour",
+    "start_time": "Tuesday, June 3, 2025 at 3:30 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "Invite Only",
+    "hosts": "Nixon Peabody",
+    "target_audiences": "Investors, Finance",
+    "themes": "Fundraising / Investing",
+    "formats": "Happy hour",
+    "description": null
+  },
+  {
     "event_name": "Medical-Infused Textile, FDA / SBIR manufacturing",
     "start_time": "Tuesday, June 3, 2025 at 12:30 AM EDT",
     "neighborhood": "Financial District",
@@ -317,6 +383,17 @@
     "themes": "HR / Hiring, B2C / Consumer, B2B",
     "formats": "Experiential",
     "description": "What’s a Fractional—and why are founders hiring them?\n\nCome for the food & drinks, stay for the insight. This interactive event gives you direct access to top Fractional execs across Product, Marketing, Finance, and more. If you're scaling a startup, this is the high-impact talent you didn’t know you needed—until now.\n\nWhether you're curious, skeptical, or actively hiring part-time leaders, this event is your crash course in what fractional really means, when it makes sense, and how to make it work for your business. No decks. No fluff. Just smart people and real talk.\n\n🌟 Agenda\n\n🍸 6:00–6:30pm – Arrival, Drinks & Mingle\nEase in with music, light bites, and good energy. Grab a name tag and a prompt card to spark your next conversation.\n\n🎤 6:30–6:45pm – Opening Remarks\nWe’ll kick things off with a quick, founder-friendly download:\n\n💡 What a fractional leader is\n\n🚀 Why this model is taking off in tech\n\n🧭 What to expect from the rotating panels\n\nThink of it as your roadmap for navigating the night.\n\n🎙️ 6:45–7:30pm – Rotating Panels: Fractionals in Action\nHear from seasoned fractional leaders grouped by business purpose—Go-to-Market, Product & Tech, and Finance & Ops.\n\nEach panel will answer 3 rapid-fire questions:\n\nWhat’s your role—and why does it work fractionally?\n\nWhat’s a real moment a founder was glad to have you?\n\nWhat’s a red or green flag you look for before saying yes?\n\n🧑‍💼 7:30–7:35pm – Solo Spotlight: People & Culture\nA lightning round with a fractional Head of People on the team side of startup scaling—culture, hiring, and leadership.\n\n🗣️ 7:35–8:00pm – Structured Networking & Group Reflection\nNow’s your chance to connect. Fractionals from the panel will be stationed around the room. Use your prompt card or the app to guide conversations.\n\nWe’ll pause briefly for group reflection:\n\n🧠 Founders: What did you learn or realize tonight?\n\n🛠️ Fractionals: What misconceptions do people still have?\n\n👋 8:00–8:30pm – Open Mingle\nStick around to swap contacts, take selfies, and keep the conversation going. You never know who you’ll meet—or what spark will come from it.\n\nNote: This is just a sample of what’s possible with fractional talent—not a complete list. We're spotlighting key roles that often unlock traction, clarity, and scale.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Curiosity Café by Perplexity",
+    "start_time": "Monday, June 2, 2025 at 7:30 PM EDT",
+    "neighborhood": "Financial District",
+    "url": "https://partiful.com/e/l12V5KyVkvWu6BPW7wur",
+    "hosts": "Perplexity",
+    "target_audiences": "Finance, Investors",
+    "themes": "B2C / Consumer, B2B, GTM (marketing sales growth)",
+    "formats": "Experiential",
+    "description": "Our coffee truck will be making stops in different neighborhoods during New York Tech Week. \n\nShow your Perplexity mobile app for a cup of morning coffee and Enterprise Pro customers can pick up a bag of coffee beans on us. \n\n​​​Details:\n​​​📅 Date: June 3, 4, 5, 2025\n​​⏰ Time: 8:30am - 1pm\n\n​​🚚 6/3 Location: TBD in FiDi\n​​🚚 6/4 Location: TBD in Flatiron\n​​🚚 6/5 Location: TBD in Midtown\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Enterprise AI Leaders Omakase Night",
@@ -374,15 +451,37 @@
     "description": "Early birds, crypto nerds, and Web3 wizards—this one’s for you! Join Deel & Liquifi for a chill breakfast where we’ll talk token comp, crypto payroll, and the wild world of Web3 work over coffee and good food.\n\nNo boring panels, no sales pitches, just great people, real talk, and maybe some alpha. Whether you’re already paying teams in tokens or just figuring out how it all works, you’ll be in the right place.\n\n🚀 What to expect:\n✅ Smart people talking crypto & hiring\n✅ Hot coffee, fresh insights, and zero fluff\n✅ A room full of builders, CFOs & Web3 pros\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "$50K Pitch Competition + High-Energy Networking",
-    "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "https://partiful.com/e/nWrCaKIvSN93qMXEIbCm",
-    "hosts": "Rocket Mixer",
-    "target_audiences": "Founders ($0-1M Raised), Founders ($5M+ Raised)",
-    "themes": "B2B, B2C / Consumer, SaaS",
+    "event_name": "iAltA Rooftop Launch Party: A New View On Private Capital ",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Chelsea",
+    "url": "https://partiful.com/e/XOqmtZeLV463XuevnEBV",
+    "hosts": "iAltA",
+    "target_audiences": "Investors",
+    "themes": "Fundraising / Investing, Fintech, Infrastructure",
     "formats": "Happy hour",
-    "description": "​Hey everyone!\n\n​Rocket Mixer is back with another exciting event, and this time, we’re partnering with Reed Smith to bring you an unforgettable evening of networking, entertainment, and opportunity.\n\n​Here’s what’s in store:\n🔥 A top-tier setup for meaningful connections\n🍽️ Great food and drinks to fuel great conversations\n🚀 Five founders pitching their startups to a panel of professional investors-$50K Worth of Services for the Winner—Courtesy of Our Sponsors!\n🗳️ You get to vote for the best pitch!\n\n​Due to limited venue capacity and the high demand for our events, this gathering is exclusively for startup founders and entrepreneurs with an active business. A company email is required to apply—no exceptions.\n\n​If you sign up, please make sure to attend—or let us know in advance if you can’t make it so we can offer your spot to someone else.\n\n​See you there!\n\n​Rocket Mixer Team 🚀\n\n​\n\n​Please note, this event will be photographed and filmed. Rocket Mixer reserves the right to use photographs and video from the event for marketing and communications purposes. By attending the event you consent to your image being used for these purposes and to receive future marketing communications.\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+    "description": "Join iAltA Private Markets on the rooftop of WestCap Offices for an exclusive party celebrating our recent acquisitions of Verivend and Betterfront. \n\nOverlooking the Manhattan skyline, this exclusive event brings together investors and leaders across the private markets for conversation, drinks, and light fare. This is a unique opportunity to connect with peers and the teams behind iAltA Private Markets and Verivend in an intimate setting.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Where should PMM sit?",
+    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
+    "neighborhood": "Financial District",
+    "url": "https://partiful.com/e/f9ZwbDXYGpG0cmim3gdN",
+    "hosts": "3Search",
+    "target_audiences": "Marketing / Comms, Product",
+    "themes": "B2B, GTM (marketing sales growth), HR / Hiring",
+    "formats": "Panel event or fireside chat",
+    "description": "About this event\nMost Product Marketers report directly into the marketing department. It makes sense, right? Product marketing helps drive the go-to-market strategy, positioning, and messaging. But here’s the rub - a lot of PMMs in this setup end up executing, rather than leading. They get pulled into sales decks and launch checklists… and slowly drift away from customer insight, product influence, and strategy. \n\nMeanwhile, Product Marketers sitting in the product team often report becoming a glorified Jira ticket closer. This structure gives PMMs influence on roadmap, pricing, packaging, and market fit. But we've seen plenty of PMMs get so embedded with product that they lose touch with customers and GTM starts to suffer. \n\nSo, what’s the sweet spot? \n\nSpecialist headhunter, Jason Goodwin, will be sitting down with three experts in each space to debate the topic at our event, Stuck in the middle: Navigating the product vs. marketing debate for Product Marketers.\n\nRegister now to hear from:\n\nNamita Soni, Head of Product Marketing at DailyPay, Inc.\nDevon DeBlasio, Vice President of Product at InfoSum\nIdan Gol, VP Marketing at MESH\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Wollen Music Sessions",
+    "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
+    "neighborhood": "East Village",
+    "url": "https://partiful.com/e/EyJg3B2Dv1MAY5z6S9FZ",
+    "hosts": "Wollen Labs",
+    "target_audiences": "Founders ($1-5M Raised), Founders ($0-1M Raised)",
+    "themes": "AI",
+    "formats": "Experiential",
+    "description": "We’re taking over a hidden rooftop to throw a party above the city—starting mellow as the sun sets, and turning up as the night kicks in. A stacked lineup of DJs will be on deck, serving beats from golden hour to dance floor.\n\nThis isn’t a networking event. It’s a sunset-to-night rooftop session with good people, flowing drinks, and zero agenda.\n\nOur headliner DJ is Jacob Pace: an entrepreneur and artist who built and exited Flighthouse (one of the fastest-growing media channels on TikTok) at 22. Was named Forbes 30 Under 30 & Rolling Stone’s Future 25.\n\nSecret location drops the morning of. Capacity is tight—RSVP now.\n\n📍 Secret Rooftop\n🗓️ June 3rd\n🎧 DJ Lineup\n✨Vibes\n\n—————————\n\nWollen Labs deploys in-house or managed AI engineering teams to help you build and scale AI-native. Whether you’re integrating AI into an existing product or expanding your internal team, we bring deep technical expertise meeting you where you are and helping you go further, faster\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Pitch Palooza",
@@ -396,8 +495,8 @@
     "description": "​Join AI builders, backers, and ecosystem collaborators shaping the future of AI in New York City.\n\n​The event will feature an open mic format, where innovators can, in one-minute intervals, share what they’re building and connect with like-minded peers in the AI ecosystem. Brennan Pothetes, CEO of the world's first AI-native Holdco, will be the master of ceremonies.\n\nThe top five pitches will each win developer-focused prizes:\n- Foundry: Free GPU credits to turbocharge your machine learning workflows\n- Infinity Constellation: access to custom AI services to bring your projects to life.\n\n\nSpecial Guest Attendance:\nWe've invited top investors, founders, and AI experts from the Infinity network and beyond — an incredible opportunity for connections, partnerships, and mentorship.\n\nBrought to you by Foundry, Infinity, and JPMorgan. See you there!"
   },
   {
-    "event_name": "Building Agentic Commerce Dinner",
-    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
+    "event_name": "Vesey Ventures Bot to Basket: Building Agentic Commerce Dinner",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "SoHo",
     "url": "https://partiful.com/e/8J1Mzr7uqaUOYu0fNTea",
     "hosts": "Vesey Ventures",
@@ -407,15 +506,48 @@
     "description": "🌟 Calling founders building AI applications for commerce and payments in the agentic era!!\n\nJoin Vesey Ventures, JP Morgan and Synchrony for a night of great food and conversation on this trending topic.\n\nSpace is limited so unfortunately we cannot accommodate everyone.  Will notify approved guests by Friday May 30.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "AI for Greater Good",
+    "event_name": "Quizius by Nebius: Your brain is the real GPU tonight [Invite only]",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
-    "neighborhood": "Upper Manhattan",
+    "neighborhood": null,
     "url": "Invite Only",
-    "hosts": "GEMI.AI",
-    "target_audiences": "Investors, Students",
-    "themes": "AI",
+    "hosts": "Nebius",
+    "target_audiences": "Founders ($5M+ Raised), Engineers",
+    "themes": "AI, B2B",
     "formats": "Networking",
     "description": null
+  },
+  {
+    "event_name": "Last Table",
+    "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "Invite Only",
+    "hosts": "LastTable",
+    "target_audiences": "Founders ($0-1M Raised)",
+    "themes": "Creators, Engineering, Fundraising / Investing",
+    "formats": "Happy hour",
+    "description": null
+  },
+  {
+    "event_name": "Smart GTM Starts Here: Lunch with Rosy Finch Method & Co.",
+    "start_time": "Monday, June 2, 2025 at 11:00 PM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/3ibzA3MjhzOOj3Pjte4C",
+    "hosts": "Rosy Finch Method and Company",
+    "target_audiences": "Marketing / Comms, Founders ($5M+ Raised)",
+    "themes": "GTM (marketing sales growth), Fintech, B2B, ",
+    "formats": "Breakfast / brunch / lunch",
+    "description": "Founders know growth is essential — but too often, it’s expensive, chaotic, and misaligned with what investors actually want to see. Over lunch at Pera Soho, Rosy Finch Method & Co. creates space for a conversation on how to build high-output, capital-efficient GTM functions from day one.\n\n​​We’ll talk about designing lean systems that scale without blowing through your raise — and how to make marketing and sales best friends early, not rivals reporting different KPIs and fighting for credit. If you’re rethinking how to go to market in 2025, this is your table.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Fundraising & Series A History",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/wy8huTPx5a3iweHA4z47",
+    "hosts": "Lazo",
+    "target_audiences": "Founders ($1-5M Raised), Investors",
+    "themes": "Fundraising / Investing",
+    "formats": "Panel event or fireside chat",
+    "description": "​Join us for a day designed to guide you through the journey of raising capital in the US. This exclusive event will connect you with experts across all the essential areas to help you secure the funding you need to grow your business.\n\n​🔑 What to expect:\n\n​Top venture capitalists offering insights and strategies\n​Real stories from founders who successfully raised Series A and B\n​Discussions with angel investors and other key players\n\n​✨ Learn, connect, and prepare to unlock your next funding round with confidence. ✨\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "AI Leaders Forum NYC",
@@ -429,17 +561,6 @@
     "description": "These days, it's often hard to separate hype from reality. How can enterprise leaders prepare for the next wave of innovation and stay ahead of the curve?\n\nJoin us at the AI Leaders Forum in New York City, an exclusive and inspiring day of insights, hands-on learning, and networking opportunities, grounded in real results from Writer customers making the impossible, possible with agentic AI.\n\nApply to attend here: https://bit.ly/techweek-nyc\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Fundraising & Series B History",
-    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "https://partiful.com/e/wy8huTPx5a3iweHA4z47",
-    "hosts": "Lazo",
-    "target_audiences": "Founders ($1-5M Raised), Investors",
-    "themes": "Fundraising / Investing",
-    "formats": "Panel event or fireside chat",
-    "description": "​Join us for a day designed to guide you through the journey of raising capital in the US. This exclusive event will connect you with experts across all the essential areas to help you secure the funding you need to grow your business.\n\n​🔑 What to expect:\n\n​Top venture capitalists offering insights and strategies\n​Real stories from founders who successfully raised Series A and B\n​Discussions with angel investors and other key players\n\n​✨ Learn, connect, and prepare to unlock your next funding round with confidence. ✨\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
     "event_name": "Built to Sell: Achieving a Top Dollar Exit in 2025",
     "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
     "neighborhood": "Midtown",
@@ -451,15 +572,15 @@
     "description": "Thinking about selling your company — or just want to be exit-ready when the time’s right? In today’s market, it’s not just about growth — it’s about positioning, timing, and knowing what buyers really care about.\n\nJoin a powerhouse panel featuring two investment bankers and an M&A lawyer, all of whom focus on negotiating M&A exits for technology companies. They’ll break down what it takes to land a deal at the highest possible price and drive it through to closing — whether you’re months or years from a sale.\n\nWe’ll cover:\n\n🚀 𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲𝘀 𝗯𝘂𝘆𝗲𝗿𝘀 𝘀𝗮𝘆 𝘆𝗲𝘀 – how strategic acquirers and private equity are sizing up tech and tech-enabled companies now\n💰 𝗠𝗼𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 𝗻𝗲𝗲𝗱𝗹𝗲 𝗼𝗻 𝗽𝘂𝗿𝗰𝗵𝗮𝘀𝗲 𝗽𝗿𝗶𝗰𝗲 – the factors that buyers focus on when making an offer and strategies for improving deal terms\n🎯 𝗪𝗮𝗿 𝘀𝘁𝗼𝗿𝗶𝗲𝘀 + 𝗿𝗲𝗮𝗹 𝘁𝗮𝗹𝗸 – what founders overlook, how investors help (or hurt) the exit and key takeaways for getting to a successful closing\n\nYou built something great. Now learn how to sell it like a pro!\n\nFeaturing:  \n\n• Ben Boissevain, Managing Partner at Ascento Capital\n• Ali Masoud, Director | M&A at PCE Investment Bankers, Inc.\n• Paul Ellis, Co-Founder of NY Tech Alliance & Managing Partner, Ellis Law Group \n\nAgenda:\n\n5:00 - Arrival & Networking\n5:30 - Panel Discussion\n6:15 - Wrap Up & Networking\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. \nLearn more at www.tech-week.com."
   },
   {
-    "event_name": "Tech:NYC x Rho Founder Studio Hours",
-    "start_time": "Tuesday, June 3, 2025 at 12:00 AM EDT",
-    "neighborhood": "SoHo",
-    "url": "https://partiful.com/e/m2VBGMABT6csamNaByKD",
-    "hosts": "Tech:NYC, Rho",
-    "target_audiences": "Founders ($0-1M Raised)",
-    "themes": "Media / Entertainment, International / expansion",
-    "formats": "Experiential",
-    "description": "Are you a founder building something exciting in New York City? In partnership with Rho, Tech:NYC invites you to apply for our exclusive \"Studio Open Hours\" during Tech Week. This is a unique opportunity for 10 selected founders to participate in a short interview segment, spotlighting the power and vibrancy of NYC's tech ecosystem.​\nIn these interviews, we'll explore:​\n\n- Your journey: What you're building and the inspiration behind it.​\n- Why NYC: The reasons you chose New York as your startup's home.​\n- Ecosystem insights: Your perspective on what makes NYC's startup scene unique.​\n\nThe resulting video will showcase the compelling narratives of founders like you, highlighting the dynamic and supportive environment that makes NYC a global tech hub.​\n\nInterested? Apply now through our application form to be considered. https://technyc.typeform.com/to/BOc12YHx\n\nLet's celebrate and share the stories that make New York's tech community extraordinary!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+    "event_name": "Revenue Brunch: Pricing and Packaging",
+    "start_time": "Monday, June 2, 2025 at 9:00 PM EDT",
+    "neighborhood": "Midtown",
+    "url": "Invite Only",
+    "hosts": "Salesbricks",
+    "target_audiences": "Founders ($5M+ Raised), Founders ($0-1M Raised)",
+    "themes": "B2B, GTM (marketing sales growth), SaaS",
+    "formats": "Breakfast / brunch / lunch",
+    "description": null
   },
   {
     "event_name": "NYC Family Office Dinner",
@@ -471,6 +592,17 @@
     "themes": "Fundraising / Investing",
     "formats": "Dinner",
     "description": "Come meet NYC's family offices and those visiting for NYC Tech Week at this dinner, hosted by Mike MacCombie. This is the third year of hosting this dinner during NYC tech week. It will be a standing gathering for the first half hour, a seated dinner for the attendees to meet each other, and then an optional gathering for a larger group of FOs to continue the conversation afterwards. It is strictly curated for members of families with active startup investing practices, or full time investors at family offices with venture strategies.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "AI Engineer Happy Hour with Thread AI & Greycroft",
+    "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
+    "neighborhood": "Nomad",
+    "url": "Invite Only",
+    "hosts": "Greycroft",
+    "target_audiences": "Engineers",
+    "themes": "Engineering, AI",
+    "formats": "Happy hour",
+    "description": null
   },
   {
     "event_name": "Storytelling for business impact",
@@ -495,6 +627,17 @@
     "description": "QUAY Acceleration and Morgan Stanley Inclusive & Sustainable Ventures Lab (MSISVL) are excited to host a Happy Hour to connect founders, investors and major ecosystem players of the NYC tech ecosystem during NY #TechWeek, following the success of last year’s event.\n\nWhether you are a #founder looking to learn more about MSISV, an #investor looking for the next groundbreaking idea to invest in, or a relevant #ecosystem player wishing to get involved with brilliant founders, we invite you to join us for a night filled with meaningful conversations while overseeing the Manhattan skyline, sipping drinks and grazing tasty bites.\n\n​Spots are limited so please register at your earliest convenience if you wish to attend. \n\nWe look forward to seeing you there! \n\nPlease note: by registering, you acknowledge that photos and videos may be taken by the event organizers.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nAbout Morgan Stanley Inclusive & Sustainable Ventures Lab (MSISV):\nMorgan Stanley Inclusive & Sustainable Ventures Lab provides early-stage startups with access to capital and resources to help them develop and scale. The mission is to foster a more equitable and sustainable investment landscape. Learn more at https://morganstanley.com/ventures. \n\nAbout QUAY Acceleration:\nQUAY Acceleration (previously WEVE Acceleration and Cela Innovation) supports US and international economic development groups to generate business outcomes through our accelerator programs. Our goal is to assist innovators in exploring new markets and achieving business growth by providing exceptional knowledge, connections, and resources. We collaborate with a network of public and private partners to deliver customized programs for startups across the globe. Learn more at https://www.quay.co/"
   },
   {
+    "event_name": "AI, XR & Gaming GP Dinner",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/7kSH23evPC4u0L5l0w20",
+    "hosts": "Hartmann Capital",
+    "target_audiences": "Investors",
+    "themes": "Fundraising / Investing, AR / VR, AI",
+    "formats": "Dinner",
+    "description": "An intimate dinner of select GPs leading frontier tech, AI, XR, and gaming funds. Join fellow investors for a curated evening of meaningful conversations, deal flow insights, and industry collaboration.\n\nLimited capacity (14), RSVP today\n\n--\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Ironspring Ventures Breakfast",
     "start_time": "Monday, June 2, 2025 at 7:30 PM EDT",
     "neighborhood": "Midtown",
@@ -506,17 +649,6 @@
     "description": "Join Ironspring Ventures and leaders across the digital industrial innovation ecosystem to celebrate industrial tech in NYC. This will be an invite-only event for founders, investors, and corporate innovation executives. We'll also be showcasing a new thought leadership piece on Digital Industrial Innovation in NYC at this high impact gathering.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Empower Women in Tech",
-    "start_time": "Monday, June 2, 2025 at 10:00 PM EDT",
-    "neighborhood": "Midtown",
-    "url": "Invite Only",
-    "hosts": "AWS and Per Scholas New York",
-    "target_audiences": "Other, HR",
-    "themes": "Women-focused",
-    "formats": "Breakfast, Brunch or Lunch",
-    "description": null
-  },
-  {
     "event_name": "Blocks & Bonds: A Web3 Breakfast",
     "start_time": "Monday, June 2, 2025 at 8:00 PM EDT",
     "neighborhood": "Flatiron",
@@ -524,7 +656,7 @@
     "hosts": "Fenwick",
     "target_audiences": "Founders ($1-5M Raised), Investors",
     "themes": "Crypto / Web3",
-    "formats": "Breakfast, Brunch or Lunch",
+    "formats": "Breakfast,  Brunch or Lunch",
     "description": "Join us for a curated networking breakfast for Blockchain and Web3 founders, funders, and ecosystem builders. No panels, no pitches—just good conversation, shared ideas, and new relationships. \n\nWhether you're building the next decentralized innovation or backing bold bets in the space, this is your chance to expand your network, exchange insights, and strengthen the Web3 community. \n\nLight breakfast and refreshments will be provided.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
@@ -550,6 +682,17 @@
     "description": "Calling all Gen Z builders, dreamers, and disruptors!\n\nGFR Fund & Supernode Global is creating a space for Gen Z builders, founders, and investors together in one of the most electric tech hubs in the country 🗽✨🍎\n\nIf you’re not Gen Z but you’re excited about what we’re building and want to be part of the conversation, pull up! This is a night all about serendipitous connections, tasty bites & drinks, fireside chats, and quickfire pitches. \n\n🗓 Tuesday, June 3 | 5:30 PM – 8:30 PM ET\n📍 SoHo, NYC (Exact location TBA)\n\n💡 Wanna pitch?\nGot something exciting in the works and want some live feedback in front of GFR & SG's GPs and community? Get on the list! We're keeping it casual, think open mic nights: no decks, and keep it under 2 minutes. Be ready to answer questions and give feedback to your fellow pitchers! Spots are limited. https://airtable.com/appyIuRkH38r2vaZN/pag2ag5qJDQz5Cn8f/form\n\nBrought to you by GFR Fund 🩵 and Supernode Global 🧡\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "AgeTech NYC x OATS Living Lab Accelerator Demo Day",
+    "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/cOPogvEyBHd8oiKpOBav",
+    "hosts": "AgeTech NYC, AgeTech Atlanta",
+    "target_audiences": "Investors, Founders ($1-5M Raised)",
+    "themes": "B2B, B2C / Consumer, Healthcare / Healthtech",
+    "formats": "Happy Hour",
+    "description": "​Join AgeTech NYC at a happy hour during #Techweek.\n\n​​​🤝 What is this? Join us for an evening of connection and conversation. We'll watch demos from founders in the second cohort of AgeTech NYC's Accelerator.\n\n​🗺 Where is it? Senior Planet\n\n​🗣 Who's coming? NYC-based AgeTech founders, operators, and investors.\n\n​​​Whether you're looking to network, learn about AgeTech in NYC, or make new friends, you'll be in great company.\n---\n​About AgeTech NYC: AgeTech NYC is the network of NYC-based founders, operators, and investors in AgeTech.\n---\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Palantir Startups Demo and Happy Hour",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Flatiron",
@@ -561,17 +704,6 @@
     "description": "Palantir engineers will demo AIP, and share how startups are building on AIP to ship AI product in record time. We will also share info on Palantir's startup program, and then host a happy hour after.\n\nLimited capacity founders only event.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nNote: RSVPs will be confirmed close to the event date."
   },
   {
-    "event_name": "AgeTech NYC Accelerator Demo Day",
-    "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "https://partiful.com/e/cOPogvEyBHd8oiKpOBav",
-    "hosts": "AgeTech NYC, AgeTech Atlanta",
-    "target_audiences": "Investors, Founders ($1-5M Raised)",
-    "themes": "B2B, B2C / Consumer, Healthcare / Healthtech",
-    "formats": "Happy Hour",
-    "description": "​Join AgeTech NYC at a happy hour during #Techweek.\n\n​​​🤝 What is this? Join us for an evening of connection and conversation. We'll watch demos from founders in the second cohort of AgeTech NYC's Accelerator.\n\n​🗺 Where is it? Senior Planet\n\n​🗣 Who's coming? NYC-based AgeTech founders, operators, and investors.\n\n​​​Whether you're looking to network, learn about AgeTech in NYC, or make new friends, you'll be in great company.\n---\n​About AgeTech NYC: AgeTech NYC is the network of NYC-based founders, operators, and investors in AgeTech.\n---\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
     "event_name": "Hospitality Tech Fete",
     "start_time": "Tuesday, June 3, 2025 at 6:30 AM EDT",
     "neighborhood": "Midtown",
@@ -581,6 +713,17 @@
     "themes": "B2B, SaaS",
     "formats": "Happy Hour",
     "description": null
+  },
+  {
+    "event_name": "Google Cloud & JPMorgan -Elevate Accelerator Leaders",
+    "start_time": "Tuesday, June 3, 2025 at 2:00 AM EDT",
+    "neighborhood": "Tribeca",
+    "url": "https://partiful.com/e/xpYp8P7u5BP3eLdxmI70",
+    "hosts": "Google Cloud",
+    "target_audiences": "Other, Investors",
+    "themes": "Fundraising / Investing, AI",
+    "formats": "Happy Hour",
+    "description": "Join us for a NY #TechWeek Accelerators Mixer hosted by Google Cloud. This exclusive event is your opportunity to meet other talented Managing Directors & Program Managers, expand your network and unwind after a busy program season!\n\nVisit a unique NYC spot including a wine & beer bar and more. Space is limited and we would love to welcome you — request your spot today.\n\n​Learn more about Google Cloud - \n​Google Cloud brings together innovations from across Google to help companies digitally transform - with AI that’s ready for what’s next. The Google for Startups Cloud Program gives startups access to startup experts, Google Cloud and Firebase costs covered up to $200,000 USD (up to $350,000 USD for AI startups) over two years, technical training, business support, and Google-wide offers.\ncloud.google.com/startup/apply\n\nLearn more about J.P.Morgan Startup Banking - \nJ.P.Morgan Startup Banking platform serves venture-backed and high-growth startups, founders, and venture capital firms across the globe. They provide deep industry expertise, local support, global products and services, and a robust network of investors and partners to meet your commercial, investment, and private banking needs.\njpmorgan.com/commercial-banking/startups\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "SaaS Founders + Investor Happy Hour ",
@@ -605,17 +748,6 @@
     "description": "Join Wristkey Global/$HHCW for Tech Taco Tuesday, the perfect blend of networking, innovation, and good vibes! Whether you’re a seasoned crypto expert, an AI enthusiast, or just curious about the latest trends in blockchain and artificial intelligence, this event is for you.\n\n​🍹 What to Expect:\n\n​Happy Hour: Unwind with tacos and drinks at a vibrant, cozy venue.\n​Networking Opportunities: Connect with fellow blockchain and AI innovators, enthusiasts, and professionals.\n​Trending Discussions: Dive into the latest developments in Web3, decentralized finance, AI-powered tools, and the future of tech.\n​This is your chance to share ideas, explore collaboration opportunities, and enjoy a relaxed evening with like-minded individuals in the tech space.\n\n​Let’s talk tech, share tacos, and shape the future—one conversation at a time!\n\n​RSVP Now to secure your spot! We can’t wait to see you there.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "The Future of Due Diligence and Primary Research",
-    "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
-    "neighborhood": "Hudson Yards",
-    "url": "https://partiful.com/e/Sqdo38hwGVNiSwhmt8Px",
-    "hosts": "ProNexus",
-    "target_audiences": "Finance, Investors",
-    "themes": "AI, Fundraising / Investing",
-    "formats": "Happy Hour",
-    "description": "Join other strategy consultants, private equity investors, and industry leaders to explore how AI is reshaping due diligence and market research. Enjoy an open bar featuring espresso martinis and select other drinks.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
     "event_name": "Sip & Social with Lowenstein Sandler's Women in VC",
     "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
     "neighborhood": "Midtown",
@@ -625,17 +757,6 @@
     "themes": "Women-focused, Fundraising / Investing",
     "formats": "Happy Hour",
     "description": "Join us for our in-person Sip and Social with Women in VC during NY Tech Week hosted by Lowenstein Sandler’s Leia Galasso and Meredith Beuchaw.\n\nBe part of an evening filled with inspiring conversations and exceptional networking opportunities. Connect with talented women founders, operators, and VCs in a vibrant and welcoming atmosphere. \n\nKnow any remarkable women in your network who would love to attend, please email womeninvc@lowenstein.com.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
-    "event_name": "Happy Hour-Google Cloud Elevates Accelerator Leader",
-    "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
-    "neighborhood": "Chelsea",
-    "url": "Invite Only",
-    "hosts": "Google Cloud",
-    "target_audiences": "Other, Investors",
-    "themes": "Fundraising / Investing, AI",
-    "formats": "Happy Hour",
-    "description": null
   },
   {
     "event_name": "Martinis & Money: Branding for Bold Women",
@@ -660,7 +781,7 @@
     "description": "Set in a downtown location favored by artists and filmmakers, this event brings together technologists, investors, and creatives at the intersection of innovation and media.\n\nGain insights from a panel focused on the AI transformation of the media landscape—from streamlining production to unlocking new creative possibilities for independent filmmakers and content creators. \n\nWe'll dive into the unseen infrastructure powering everything from script to screen and examine how these tools are lowering barriers to entry and shifting the economics of storytelling. \n\nHosted by ShotKraft, AI filmmaking assistant empowering creators to become visual storytellers. \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Critical Mass: Volume 2",
+    "event_name": "Critical Mass: Vol. 2",
     "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
     "neighborhood": "Brooklyn",
     "url": "https://partiful.com/e/KKRYDoEIP3CSOYgdL2iK",
@@ -759,6 +880,17 @@
     "description": "Join us for Latinos in VC during New York Tech Week—a vibrant panel discussion on the growing Latino presence in venture capital, followed by an exclusive networking session. Hear from top Latino investors about the future of VC and how to make it more inclusive, then connect with fellow founders, investors, and innovators. Don’t miss out on this dynamic evening!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Why The Future Of Tech Is Borderless",
+    "start_time": "Tuesday, June 3, 2025 at 2:15 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/XxoTsiSExmAv3KvLFdKf",
+    "hosts": "Nigix Solutions",
+    "target_audiences": "Founders ($0-1M Raised), Investors",
+    "themes": "AI, HR / Hiring, Engineering",
+    "formats": "Panel / Fireside Chat",
+    "description": "Join us for an exciting panel conversation on the evolving landscape of technology, where innovation knows no borders. As industries rapidly shift toward more global and collaborative models, this event explores how businesses are reimagining the way they build, scale, and work with talent across the world. From cross-border partnerships to the rise of distributed tech teams, discover why the future of tech is borderless and what it means for your company, career, and community.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "The Future of AI in Fashion and Ecommerce hosted by Shopify and ImagineCreate AI",
     "start_time": "Monday, June 2, 2025 at 11:00 PM EDT",
     "neighborhood": "SoHo",
@@ -788,17 +920,6 @@
     "hosts": "Lohit Biswal",
     "target_audiences": "Founders ($5M+ Raised), Other",
     "themes": "B2C / Consumer, Fundraising / Investing, Media / Entertainment",
-    "formats": "Panel / Fireside Chat",
-    "description": null
-  },
-  {
-    "event_name": "Train and build efficient LLMs and agents ",
-    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "Invite Only",
-    "hosts": "Databricks",
-    "target_audiences": "Engineers, Founders ($5M+ Raised)",
-    "themes": "AI, Infrastructure, SaaS",
     "formats": "Panel / Fireside Chat",
     "description": null
   },
@@ -878,6 +999,17 @@
     "themes": "AI, GTM",
     "formats": "Pitch Event / Demo Day",
     "description": "To join the interest list, please register via our official link: https://aws.amazon.com/startups/events/aws-startup-ai-pitch-competition-with-nvidia?trk=f6a1a5dc-e06c-4986-a2b0-5000653244b5&sc_channel=el\n\nShowcase your AI innovation at the AWS AI Startup Pitch Competition, where groundbreaking startups meet leading venture capitalists and tech industry pioneers. Six carefully selected startups will take the stage to present their transformative solutions before an elite panel of judges, including AWS experts, prominent VCs, and industry visionaries.\n\nStakes are high, with winners securing substantial AWS credits:\n• First Place: $125,000\n• Second Place: $10,000\n• Third Place: $5,000\n\nThis premier event offers invaluable networking opportunities to connect with AWS leadership, potential investors, and fellow innovators shaping the future of AI. Don't miss this chance to accelerate your startup's growth and visibility in the AI ecosystem.\n\nRegistration Information: Due to high demand and limited capacity, submitting a registration does not guarantee entry. All RSVPs will be reviewed and approved on a weekly basis, with confirmation emails being sent to approvals.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Seed to Sale and Beyond",
+    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/8T8bH6NJKxjNpI5o3nYJ",
+    "hosts": "Cerebral Valley",
+    "target_audiences": "Founders ($5M+ Raised), Investors",
+    "themes": "AI, Fundraising / Investing, Fintech",
+    "formats": "Happy hour",
+    "description": "Join us at Zero Bond in Soho for one of New York Tech Week's most unique gatherings for high-impact leaders at the intersection of culture, capital, and technology.\n\nBrandon Sobel, Managing Director & Private Wealth Advisor at UBS, offers best-in-class financial services to founders, executives and entrepreneurs via Inception Partners. \nhttps://advisors.ubs.com/inception/\nhttps://www.linkedin.com/in/brandon-sobel\n\nRuss Udé, based in Beverly Hills, works with UBS advisors and clients to create value through private equity, access to cultural leaders, and intellectual capital.\nhttps://www.linkedin.com/in/russude/\n\n​Cerebral Valley is the world's largest AI ecosystem, with 50,000+ founders and investors globally. https://cerebralvalley.ai/about\n\nS1-O.N. is an management consulting firm founded to add value to eclectic thinkers and entrepreneurs, through Business Development, Creative Direction, and Strategy Consulting. \nhttps://www.s1on.com/\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Ship Your AI Copilot in 5 Minutes",
@@ -1012,6 +1144,17 @@
     "description": "We’re thrilled to announce and bring the popular FinTech Marketing Conference to New York where we will bring together hundreds of senior business and marketing experts on one forum. This not-to-be missed event brings together a wealth of insights and industry best practices to help solve your day-to-day challenges.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Founder & Investor Private Dinner",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "Invite Only",
+    "hosts": "Engine",
+    "target_audiences": "Founders ($1-5M Raised), Investors",
+    "themes": "B2B, Fundraising / Investing, SaaS",
+    "formats": "Dinner",
+    "description": null
+  },
+  {
     "event_name": "Today's Middle Tech: Live Podcast with Etsy and Internet Works",
     "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
     "neighborhood": "Brooklyn",
@@ -1065,17 +1208,6 @@
     "themes": "International / expansion, SaaS, Fundraising / Investing",
     "formats": "Happy hour",
     "description": "Austrade and the American Australian Association are delighted to invite you to the annual Australian NYC Tech Community Summer Meet-up. \n\n​Join us for a fun night of networking, drinks and refreshments with fellow Aussies and our friends from the New York tech ecosystem.\n\n​As always, we will be highlighting a few of our Aussie founders in the room with 1-2 minute introductions on their companies, featuring some of the best sunset views over Manhattan.\n\n​Please bring photo ID to check in with building security. \n\n​Looking forward to seeing you all there!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\n\n\n\nBy registering for this event, you acknowledge that photography and videography may be taken and distributed on social media at the event hosts' discretion.\n\n​Privacy Collection Statement\n​The Australian Trade and Investment Commission (Austrade) is collecting your personal information, including your name and email address, in relation to your participation in this event for the purpose of coordinating building security and access and guest list management and logistics.  \n\n​Austrade is collecting, and will store, process and disclose your personal information in accordance with its Privacy Policy.  \n\n​We may disclose your information to overseas recipients, given Austrade has international offices, and your information may be accessed by Austrade staff in various locations. We may share your personal information with co-organizers, other Australian Government agencies or the state/territory governments.\n\n​Austrade may include your personal information in a marketing list to contact you from time to time with information related to the topic of this event, that may be of interest to you. You may ask to be removed from Austrade marketing lists at any time by clicking the unsubscribe button or by contacting Austrade directly.\n\n​If you have any questions about the way Austrade handles your personal information in relation to this event, please contact: Elise Webb, Trade Director, Elise.Webb@austrade.gov.au."
-  },
-  {
-    "event_name": "LinkedIn Marketing Exec Roundtable: Insights & Strategies for B2B Thought Leadership",
-    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "https://partiful.com/e/ElIcIwz2H6IwCIXyH4Kr",
-    "hosts": "LinkedIn",
-    "target_audiences": "Marketing / Comms",
-    "themes": "GTM, B2B",
-    "formats": "Happy Hour",
-    "description": "Join us for an exclusive gathering of startup marketing leaders and execs! As part of a16z's #NYTechWeek, LinkedIn is hosting an exclusive executive roundtable and networking happy hour for senior startup marketing leaders focused on B2B thought leadership and executive branding.\n\nTogether with your industry peers and LinkedIn subject matter experts, gain valuable insights & strategic recommendations on how to activate your executives as B2B thought leaders on LinkedIn—accelerating the B2B buyer’s journey and driving more marketing-sourced pipeline and revenue. \n\nA bit more detail on programming: \n•\tPresentation of Research Findings: Gain exclusive insights from our research team and LinkedIn subject matter experts as they unveil key findings and strategies. \nHear from Craig Rosenberg, Chief Platform Officer at Scale Venture Partners, Kacie Jenkins, SVP of Marketing at Sendoso, Canberk Beker, GTM startup advisor & LinkedIn Top Voice, and Purna Virji, LinkedIn's award-winning Principal Content Marketing Consultant, on B2B thought leadership and exec branding best practices that drive growth on-platform.  \n•\tRoundtable Discussion: Engage in a thought-provoking discussion with industry experts on navigating the complexities and best practices of exec thought leadership and branding on LinkedIn. \n•\tNetworking and Happy Hour: Connect with industry leaders and LinkedIn experts over drinks and appetizers during our networking happy hour. \n \nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Post Exit Life: Tea Dialogue",
@@ -1144,17 +1276,6 @@
     "description": null
   },
   {
-    "event_name": "This Week In Fintech Event- Networking and Bites",
-    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
-    "neighborhood": "SoHo",
-    "url": "Invite Only",
-    "hosts": "This Week In Fintech",
-    "target_audiences": "Finance, Founders ($0-1M Raised)",
-    "themes": "Fintech",
-    "formats": "Networking",
-    "description": null
-  },
-  {
     "event_name": "HealthTech x FinTech x AI",
     "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
     "neighborhood": "SoHo",
@@ -1166,7 +1287,18 @@
     "description": "At Venteur, we built a platform to help thousands of businesses save millions of dollars on Health using AI.  \n\nOur CTO, who previously launched Bing, will be leading a panel of leading FinTech x AI builders.  You will learn about how AI is being harnessed at the intersection of HealthTech and FinTech.  You don't want to miss this!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Building + Biohacking: A wellness summit for health tech innovators",
+    "event_name": "NYC AI Demos",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Brooklyn",
+    "url": "https://partiful.com/e/ZD5GhA9ecziIZ1LqE3iT?",
+    "hosts": "Tech:NYC, Pensar, Two Trees",
+    "target_audiences": "Engineers, Founders ($0-1M Raised)",
+    "themes": "AI, Engineering, Fundraising / Investing",
+    "formats": "Pitch event / demo day",
+    "description": "Join us for NYC AI Demos on June 3rd at the stunning Refinery @ Domino, a new hub for the AI community perched on the Williamsburg waterfront with sweeping views of the Manhattan skyline.\n\n​Featuring technical demos from well known enterprises and early-stage startups. Light bites and drinks will be provided throughout the evening!\n\n​Itinerary:\n\n​6:00 PM - Doors open/ check-in\n\n​6:30 PM - Live demos\n\n​7:30 PM - Networking\n\n​Presented in partnership by Pensar, Tech:NYC, and Two Trees.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Building + Biohacking: A health & wellness hub for innovators",
     "start_time": "Monday, June 2, 2025 at 7:30 PM EDT",
     "neighborhood": "Tribeca",
     "url": "https://partiful.com/e/PuroVBkoO0l12QlAgEPR",
@@ -1210,7 +1342,7 @@
     "description": null
   },
   {
-    "event_name": "Founders Breakfast AMA",
+    "event_name": "Founders Breakfast AMA + Açaí Bowls & Juice Bar",
     "start_time": "Monday, June 2, 2025 at 8:00 PM EDT",
     "neighborhood": "Tribeca",
     "url": "https://partiful.com/e/NN1nF1FoSoD4Taw8fWUM",
@@ -1221,7 +1353,7 @@
     "description": "Hey Founders! \n\nHungry for some startup wisdom with your breakfast? Join Rippling, Vanta, and Puzzle for a morning feast of knowledge (and yummy food!) during NY Tech Week!\n\nWhat's cooking:\n\n• Face time with executives from Rippling, Vanta, and Puzzle\n• An Ask-Me-Anything session where no question is off the menu\n• Delicious açaí bowls and fresh-pressed juices made on-site \n• Good vibes, great conversations, and real connections with fellow builders like you\n\nBring your burning questions! This is your chance to get expert advice from leaders who have built products from 0 to 1. \n\nThis event is a part of #TechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem.\n\nSpace is limited, so RSVP before this opportunity gets blended away!\n\nEvent Details:\n• Date: Tuesday, June 3rd, 2025\n• Schedule:\n      • 9:00-9:45 AM: Mingling + Açaí Bowls/Juice Stations\n      • 9:45-10:30 AM: AMA+ Breakfast \n      • 10:30-11:30 AM: Connections & Conversations\n• Venue: Revealed upon RSVP (Tribeca, New York)\n__\n\nAbout Rippling:\nhttps://www.rippling.com/startups\n\nGrow your startup faster with Rippling.\n\nRippling lets you focus on building your global team with Payroll, HR, IT & Spend managed all in one place.\n\n\nAbout Vanta:\nhttps://www.vanta.com/\n\nVanta is the leading trust management platform that helps simplify and centralize security for organizations of all sizes. Over 8,000 companies including Atlassian, Omni Hotels, Quora, and ZoomInfo rely on Vanta to build, maintain and demonstrate their trust—all in a way that's real-time and transparent.\n\nAbout Puzzle:\nhttps://puzzle.io/\n\n​​Puzzle’s accounting software is built for growing startups that need real-time financial insights without the hassles of monthly bookkeeping. Its AI-powered platform automates transaction categorization, reconciliation, and daily reporting for accurate numbers you can trust. The result is faster decisions, stronger growth, and peace of mind."
   },
   {
-    "event_name": "Coeus Collective Pitch Showcase",
+    "event_name": "Coeus Collective Pitch Showcase Presented by Seedlegals",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Financial District",
     "url": "https://partiful.com/e/RsFRP8DavZE1Vnwp7r7e",
@@ -1298,15 +1430,15 @@
     "description": "Tackling the Cold Start Problem is the single biggest challenge facing marketplace founders—how do you build both sides (buyers and sellers) at the same time and keep them coming back? Join us for a raw, no-BS conversation about the good, the bad, and the ugly of launching and scaling two-sided platforms.\n\n🧠 What You’ll Learn:\n• Real Solutions to the Cold Start Problem : Learn actionable ways to jumpstart supply and demand simultaneously in 2025.\n\n• Customer Engagement & Retention: Battle-tested strategies to convert early adopters into loyal, long-term users.\n\n• Organic Growth Strategies: Proven tactics to transform early traction into a vibrant, self-sustaining community.\n\n• Unfiltered Insights & Hard Lessons: Raw stories about the failures that led to success—no sugar-coating.\n \n🎙️ Who’s on the Panel\nPanelists: TBD — Founder & Investor lineup to be announced soon.\n\nModerator: Conor Lyden, CEO of Trustap \nFounder & Chief Executive Officer of Trustap, an award winning Irish Fintech startup with a specific focus on enabling users to buy and sell online with complete peace of mind.\n \n👥 Who Else Is Going\n• Early-stage to mid-stage marketplace founders hungry for growth\nMarketplace investors scouting the next big thing\n\n• Product/tech teams tackling two-sided network challenges\n\n• Anyone aiming to build trust, growth, and revenue in a marketplace model\n \n🎯 Why You Should Attend\n• Tried-and-True Tactics: Hear exactly how seasoned entrepreneurs overcame the cold start and kept their platform thriving.\n\n• A Playbook for 2025: Get strategies that work in today’s hyper-competitive landscape—user acquisition, monetization, brand building.\n\n• Network with Real Movers: Forge meaningful connections with marketplace experts, potential partners, or even future co-founders.\n\n• No-Sugar-Coating Allowed: Ugly Talk is about real stories, real mistakes, and real breakthroughs.\n \n🤝 Co-Hosted With:\n• Trustap - an end-to-end transaction solution that seamlessly integrates payments, fulfilment and support into your marketplace or ecommerce store.\n\n• GREY Journal – Media partner spotlighting modern entrepreneurs (Apple News + Google News)\n \n⭐ About Ugly Talk\nStarted in 2019, Ugly Talk has been turning business breakdowns into breakthroughs through unfiltered events featuring real-world founders. We’ve built a community across NYC, Chicago, San Francisco, and Miami — creating thousands of real connections, real lessons, and real results.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Alternative Data Happy Hour",
-    "start_time": "Tuesday, June 3, 2025 at 4:45 AM EDT",
-    "neighborhood": "Midtown",
-    "url": "Invite Only",
-    "hosts": "Amass Insights",
-    "target_audiences": "Investors, Finance",
-    "themes": "AI, B2B, Fundraising / Investing",
-    "formats": "Happy Hour",
-    "description": null
+    "event_name": "Ramp & General Catalyst: Pickleball",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Central Park",
+    "url": "https://partiful.com/e/ydeQ7uk2AqTjhZVeRvyE?",
+    "hosts": "Ramp",
+    "target_audiences": "Founders ($1-5M Raised), Founders ($5M+ Raised)",
+    "themes": "Fintech, Fundraising / Investing, B2B",
+    "formats": "Experiential",
+    "description": "Get ready to serve, sip, and smash! 🏓🌇\nThis New York Tech Week, Ramp and General Catalyst are teaming up to serve an incredible evening of pickleball & networking. \n\nJoin us at CityPickle at Wollman Rink - Central Park’s premier pickleball playground - where the sunset on the Manhattan skyline creates an unbeatable backdrop. Whether you're a seasoned pro or a first-time paddler, there’s a court for everyone:\n\n- Pickleball Clinics for those who want to learn some new skills\n- Tournament Play for those ready to smash the competition. \n\nThe tournament winner will receive a $500 gift card to Carbone, Torrisi, or The Grill! 💳\n\nAnd if you don't feel like playing, come for the networking! We'll be serving more than just aces — enjoy a full spread of delicious food and refreshing drinks as you mix and mingle with fellow founders & VCs. \nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Women Who Build: Founders & Funders",
@@ -1386,6 +1518,17 @@
     "description": "​​​​​​​​​​​​​​​Join us for Brexfast Club co-hosted with ​FirstGen, One Way Ventures,​ Dentons and connect with immigrant and first-gen Founders, Operators & VCs during #NYTechWeek.\n\n​Please RSVP, space is limited.​​\n\nThe event is open to both immigrants and first-gens (born to immigrant parents). \n\n​​A note to guests:\n\n​No +1 allowed upon RSVP confirmation.\n\n​​Event Details:\n\n​​​📅 Date: June 3, 2025\n\n​​​⏰ Time: 9:00 am - 10:30 am\n\n​​​🔒 Venue: Revealed upon RSVP (Chelsea, New York)\n\n​🎯 What to Expect:  Coffee pop-up featuring a live barista & breakfast bites, great people, and even better conversation.\n\n​Brex is the AI-powered spend platform. We transform finance teams from reactive no-sayers to proactive growth drivers. With Brex, companies spend with confidence by empowering employees to make smarter financial decisions from anywhere. Brex provides corporate cards, banking, and global payments, plus intuitive software for travel and expenses, that make it easy to plan and track all company spend in one place, in real time. Tens of thousands of companies from startups to global enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.\n\n​​FirstGen is an organization dedicated to expanding access to scalable entrepreneurship and venture capital for immigrant and first-generation (children of immigrants) entrepreneurs. Our goal is to help founders raise their first $1M in funding and/or reach their first $1M in revenue. We do so by supporting founders through capability-building, capital & customer support and community.\n\n​One Way Ventures is an early-stage venture capital fund, operating in the U.S., focused on backing exceptional immigrant founders.\nAfter 20 years of angel investing and three years as Managing Director of Techstars Boston, One Way co-founder Semyon Dukach noticed a trend: immigrant-led companies repeatedly outperformed the rest of his portfolio. While immigrants only make up 14% of the U.S. population, they start 24% of startups, and founded or co-founded more than 50% of America’s billion-dollar startups. One Way Ventures has over $125M under management and has backed immigrant founders from over 30 countries.\n\n​​Dentons - As a boutique practice within the world’s largest law firm, Dentons’ Global Venture Technology Group offers nimble, strategic counsel to leading emerging tech companies and venture investors. We bring together local market expertise, global reach and a Silicon Valley mindset—delivering the tailored support and insights needed to drive innovation and growth.\n\n​​__\n\n​​A note to prospective guests:\n\n​Admitted guests will be notified by way of event approval (with calendar invite). Invites are non-transferable. No +1s allowed as space is limited in size. Additional correspondence will be sent leading up to the evening.\n\n​​Events code of conduct\n\n​​​​​​​You will be considerate, respectful, and follow the event venue’s rules and policies, and applicable laws.\n\n​​​​​​​You will not engage in harassment, discrimination, demeaning conduct, unwelcome sexual advances (physical or verbal), threatening or intimidating language or conduct, or inappropriate photography or recording.\n\n​​​​​​Concerns? Reach out to your event host, or use integrity.brex.com, our anonymous reporting portal. Brex takes your concerns seriously, and people who raise good-faith concerns will not be retaliated against.\n\n​​​​​​​Attendees who violate this code of conduct will be asked to leave, and may be denied admittance to future events.\n\n​​​I understand that Brex Inc. (the \"Companies\") may use, reproduce, distribute, perform and publicly display my name, photographic likeness and videography, including, but not limited to, my likeness, image, voice, and/or signature which may appear therein, alone and/or in combination with other works, in print, broadcast and/or all other media, whether known or hereafter devised, including, but not limited to, advertising, trade and any other lawful purposes. I understand that the Company may edit and alter the photography and videography at the Companies’ sole discretion. Any copyright or trademarks in the photography and videography (including extensions and renewals) shall be exclusively the Companies’ property. I hereby release and hold harmless the Companies and those acting pursuant to its authority from liability for any claims by me or or any third party in connection with my participation in any Company events in reliance of this consent and release.\n\n​​By providing your information you agree to be added to our email distribution list. You can unsubscribe anytime here.\n\n​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Investor Rooftop Mixer",
+    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/events/0vad2wPytHnlmjDZtSRl",
+    "hosts": "Techstars",
+    "target_audiences": "Investors",
+    "themes": "AI, B2B, Fundraising / Investing",
+    "formats": "Panel event or fireside chat",
+    "description": "Join Techstars and Pillsbury LLC for an investor cocktail on a stunning midtown rooftop. Our panel on Identifying Durable Moats in an Era of Agents will feature \n➞ Susannah Shipton (Partner at AlleyCorp)\n➞ Raju Rishi (General Partner at RRE)\n➞ Dan Ruch (Partner at Rho Ventures)\n\nStay for the full open bar as you connect with fellow investors and take in the stunning views. The panel will run from  6-7pm. \n\nThis event is hosted by Techstars and Pillsbury Winthrop Shaw Pittman LLP.  This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Deal Structure Mastery: Essential Insights for ECV",
     "start_time": "Tuesday, June 3, 2025 at 7:30 AM EDT",
     "neighborhood": "SoHo",
@@ -1430,8 +1573,8 @@
     "description": "Join us for a casual and inspiring dinner gathering that celebrates immigrant founders and builders making waves in tech. Whether you're a founder, future founder, or supporter of immigrant innovation, this event is a space to share stories, challenges, and insights from across the globe - while connecting over a delicious meal.\n\nFeatured Speaker:\nHear from an inspiring immigrant founder whose story will spark conversation and connection.\n\nThis is more than just networking. It’s about shared experiences, collective wisdom, and recognizing the powerful impact immigrant voices bring to the startup ecosystem.\n\nWhy Attend?\nCelebrate Global Journeys:\nFrom visa struggles to venture wins, every founder has a story. Come share yours or learn from others navigating the startup world across borders.\n\nBuild Real Connections:\nNo need to pitch - just come as you are. This is a space for honest conversation and relationship-building within a supportive community.\n\nEffortless Experience:\nThanks to Cuculi, RSVPs, ordering, and payment are all seamless - so you can focus on the people and the moment.\n\nEvent Highlights:\nCasual Dinner Setting:\nRelax and connect over a curated menu in a welcoming, low-pressure atmosphere.\n\nGlobal Meets Local:\nMeet others who’ve built (or are building) from scratch in a new land - and explore how your journey contributes to the local tech scene.\n\nStay Connected:\nEasily exchange info and follow up using Cuculi’s built-in tools.\n\nPlease Note: To honor the restaurant hosting us, we kindly ask each attendee to place a minimum of one food order. No-shows may not be invited to future Tech Week events.\n\nDress Code: Business Casual\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
-    "event_name": "Your Pitch Sucks! How to Make it Better ",
-    "start_time": "Monday, June 2, 2025 at 10:00 PM EDT",
+    "event_name": "Your Pitch Sucks- How to Make it Better",
+    "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
     "neighborhood": "East Village",
     "url": "https://partiful.com/e/k0hrtLvn1GDGLjeH79ZA",
     "hosts": "Tech Pitch Roast Comedy LLC",
@@ -1463,6 +1606,39 @@
     "description": "Founders GTM \"Office Hours\"  for Seed to Series A Founders and the Investors who love them. ❤️\n\nIn today’s unforgiving market, early-stage tech founders can’t afford to get Go-to-Market wrong. Whether you’re Seed or Series A, the path to scalable revenue and investor confidence is paved with smart, tested GTM moves—and this session gives you a rare chance to get real-time advice from those who’ve done it at the highest level.\n\nStartup-IQ’s Founders GTM Office Hours is not a panel, and it’s not a pitch competition. It’s a fast-moving, highly interactive session where you bring your toughest GTM questions—and get direct, no-fluff feedback from:\n\n-> Jack Nolan, a sales and GTM leader who’s built and scaled revenue engines across startups and global giants.\n\n-> Michael Queralt, a Y Combinator alum and founder who’s helped countless startups navigate funding, product-market fit, and sustainable growth.\n\nBut that’s not all—this format lets you learn from the challenges, insights, and strategies of your fellow founders. Hear what’s working (and what’s not), exchange ideas, and build tactical knowledge you can act on immediately.\n\nWhy This Matters:\nFounders ask. Founders learn. You’re not just listening—you’re participating.\n- Live, practical feedback on sales strategy, pricing, investor readiness, traction, and more.\n- Proven GTM frameworks you can plug into your startup right now.\n- Unfiltered insights from startup peers who are in the trenches with you.\n\nWhether you're still trying to validate your ICP or racing toward your next round, this is the room that will level up your GTM game.\n\nSpace is limited. Insights are not. Come ready. Leave sharper.\nLet’s get you growing.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "LinkedIn Marketing Exec Roundtable: Insights & Strategies for B2B Thought Leadership",
+    "start_time": "Tuesday, June 3, 2025 at 2:30 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/ElIcIwz2H6IwCIXyH4Kr",
+    "hosts": "LinkedIn",
+    "target_audiences": "Marketing / Comms",
+    "themes": "GTM, B2B",
+    "formats": "Happy Hour",
+    "description": "Join us for an exclusive gathering of startup marketing leaders and execs! As part of a16z's #NYTechWeek, LinkedIn is hosting an exclusive executive roundtable and networking happy hour for senior startup marketing leaders focused on B2B thought leadership and executive branding.\n\nTogether with your industry peers and LinkedIn subject matter experts, gain valuable insights & strategic recommendations on how to activate your executives as B2B thought leaders on LinkedIn—accelerating the B2B buyer’s journey and driving more marketing-sourced pipeline and revenue. \n\nA bit more detail on programming: \n•\tPresentation of Research Findings: Gain exclusive insights from our research team and LinkedIn subject matter experts as they unveil key findings and strategies. \nHear from Craig Rosenberg, Chief Platform Officer at Scale Venture Partners, Kacie Jenkins, SVP of Marketing at Sendoso, Canberk Beker, GTM startup advisor & LinkedIn Top Voice, and Purna Virji, LinkedIn's award-winning Principal Content Marketing Consultant, on B2B thought leadership and exec branding best practices that drive growth on-platform.  \n•\tRoundtable Discussion: Engage in a thought-provoking discussion with industry experts on navigating the complexities and best practices of exec thought leadership and branding on LinkedIn. \n•\tNetworking and Happy Hour: Connect with industry leaders and LinkedIn experts over drinks and appetizers during our networking happy hour. \n \nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "AI Evals on Tap w/ Braintrust",
+    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/UttUiBF5XaYld7BLD52D",
+    "hosts": "Braintrust",
+    "target_audiences": "Engineers, Product",
+    "themes": "AI, B2B, Infrastructure",
+    "formats": "Happy Hour",
+    "description": "Join us for AI Evals on Tap, an evening of quick, engaging lightning talks from industry leaders at Braintrust and more on how they're approaching AI evaluations. Whether you're an engineer, product leader, or AI practitioner, you'll leave with actionable insights on improving reliability and performance. Come grab a beer and dinner, and connect with fellow builders who care about shipping AI products that actually work. \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "AI Alliance Masterclass: Customizing Responsible Prompting",
+    "start_time": "Monday, June 2, 2025 at 10:00 PM EDT",
+    "neighborhood": "Flatiron",
+    "url": "https://partiful.com/e/WPNeuhJ4gzd1phw5EBBa",
+    "hosts": "IBM",
+    "target_audiences": "Engineers, Product",
+    "themes": "AI, Engineering, Deep tech",
+    "formats": "Workshop / roundtable",
+    "description": "Prompting is a common first point of contact between people and large language models (LLMs), and the quality of the prompt heavily influences the output of the model, the successful maintenance of system guardrails, and the overall user experience. Prompt creation is often highly dependent on specialized knowledge and can be challenging for non-AI experts because it’s iterative, time consuming, and prompting practices are constantly evolving. To address these problems, Responsible Prompting is an LLM-agnostic, lightweight recommender system that aims to dynamically support users in crafting prompts that reflect responsible intentions and help avoid undesired or negative outputs. In this workshop, we will show how Responsible Prompting API works and how it can be customized to your needs.\n\nThis event is hosted by the AI Alliance, a collaborative network of companies, startups, universities, research institutions, government organizations, and non-profit foundations working at the forefront of AI technology to create the future of open, safe, and responsible AI.\n\nMasterclass host - Dr. Vagner Santana, Staff Research Scientist, Master Inventor, and member of the Responsible Tech Team at IBM Watson Research Center \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nIBM may take group photos or perform live streaming during the event for promotional purposes."
+  },
+  {
     "event_name": "South Asians in Tech ",
     "start_time": "Tuesday, June 3, 2025 at 2:00 AM EDT",
     "neighborhood": "Midtown",
@@ -1472,6 +1648,17 @@
     "themes": "Engineering, Deep Tech, AI",
     "formats": "Networking",
     "description": "South Asian Builders, Founders, & Visionaries have long played a key role in building the tech that powers our world - from code to capital. This event brings together South Asian engineers, founders, product leaders, and operators to talk about building in today’s fast-moving tech ecosystem.\n\nWe’ll cover startup life, product innovation, scaling, funding, and what it means to lead while staying rooted in culture and community. Expect sharp insights, bold ideas, and a room full of people rewriting the rules.\n\nAmerican South Asian Network (asan.fyi): we're a 501c(3) nonprofit community that empowers, elevates, and celebrates South Asians. Through our media platform TheINDUStryShow.org and research, we highlight South Asian accomplishments, delve into the unique challenges, and share uplifting onelinelifelessons.com learned with the ultimate goal of cultivating the next generation of South Asian leadership. our article - Indians are taking over Corporate America, why you should believe the hype - published by Fortune. the first ever list of companies listed on NASDAQ and NYSE and led by a person of Indian origin.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "AI Alliance Masterclass: Multicultural Vulnerability Testing",
+    "start_time": "Monday, June 2, 2025 at 8:30 PM EDT",
+    "neighborhood": "Flatiron",
+    "url": "https://partiful.com/e/pG7quf91pGbrTbjAE1L6",
+    "hosts": "IBM",
+    "target_audiences": "Engineers, Product",
+    "themes": "AI, Deep tech, Engineering",
+    "formats": "Workshop / roundtable",
+    "description": "This workshop explores the case study of the world's first multicultural and multilingual AI Safety Red Teaming Challenge focused on Asia-Pacific, conducted by Humane Intelligence and IMDA Singapore. You'll get hands-on experience using our no-code platform to perform actual red teaming exercises that identify cultural biases and linguistic vulnerabilities across diverse contexts, equipping you with practical skills to evaluate and improve AI systems through inclusive testing methodologies.\n\nThis event is hosted by the AI Alliance, a collaborative network of companies, startups, universities, research institutions, government organizations, and non-profit foundations working at the forefront of AI technology to create the future of open, safe, and responsible AI.\n\nMasterclass host - Sarah Amos, Product Manager, Humane Intelligence\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nIBM may take group photos or perform live streaming during the event for promotional purposes."
   },
   {
     "event_name": "Taste of Innovation: NYC Edition",
@@ -1485,6 +1672,17 @@
     "description": "Join us for an exclusive, invitation-only event where creativity and innovation take center stage. This remarkable evening will feature thought leaders discussing pivotal topics within the cutting-edge startup ecosystem, alongside distinguished guests from across the industry. Experience the culinary mastery of a renowned local chef while engaging in ample networking opportunities to explore the latest forward-thinking ideas.\n\n*Space is limited, and all guests must receive approval from the hosts to attend.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "The Future of Due Diligence",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Hudson Yards",
+    "url": "https://partiful.com/e/Sqdo38hwGVNiSwhmt8Px",
+    "hosts": "ProNexus",
+    "target_audiences": "Finance, Investors",
+    "themes": "AI, Fundraising / Investing",
+    "formats": "Happy Hour",
+    "description": "Join other strategy consultants, private equity investors, and industry leaders to explore how AI is reshaping due diligence and market research. Enjoy an open bar featuring espresso martinis and select other drinks.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "D44 Neuroscience and Neurotech Reception",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Union Square",
@@ -1494,6 +1692,17 @@
     "themes": "Healthcare / Healthtech, AI, Fundraising / Investing",
     "formats": "Panel event or fireside chat",
     "description": "Join us for an invite-only event to meet investors and executives at the forefront of neuroscience, neurotechnology, and mental health. We have curated a selection of management teams from both private and public companies to briefly present company updates.\n\nThis event will be held alongside the Jefferies Healthcare Conference and NY Tech Week in Midtown Manhattan.\n\nEnjoy an evening of insightful conversations over chef-prepared hors d'oeuvres, craft cocktails, and live music.\n\nThe night will kick off with a talk by Helen S. Mayberg, MD, a neurologist renowned for her study of brain circuits in depression and for her pioneering deep brain stimulation research, which has been heralded as one of the first hypothesis-driven treatment strategies for a major mental illness. She is the founding Director of Mount Sinai Health System's The Nash Family Center for Advanced Circuit Therapeutics, a center which advances precision surgical treatments for neuropsychiatric disorders through the rapid conversion of neuroscience and neuroengineering innovations that correct brain circuit abnormalities to restore mood as well as motor and cognitive functioning.\n\nCompany presentations to be announced. Location provided upon approval.\n\nSpace is limited—secure your spot now!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Hinge Tech Talks: Building Connection in the Age of AI",
+    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
+    "neighborhood": "Meatpacking District",
+    "url": "https://partiful.com/e/POanqxGW2voQQzrTrgAX",
+    "hosts": "Hinge",
+    "target_audiences": "Engineers, Product",
+    "themes": "AI",
+    "formats": "Panel event or fireside chat",
+    "description": "As part of NY Tech Week, Hinge is opening its doors for an evening of conversation and connection. This event brings together members of the Hinge team for insights, light bites, and meaningful networking.\n\nYou'll hear from Hinge's tech leaders and engineers about how we're building for intentional connection—using AI and data to support daters on their journey to finding a relationship. Following the talks, stick around to connect with the team behind the fastest growing major dating apps.\n\nWhether you're building, designing, leading, or just curious about the intersection of technology and human connection, we'd love to see you there.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "New Cyber Landscape: Agentic AI",
@@ -1507,6 +1716,17 @@
     "description": "To join the interest list, please register via our official link: http://aws.amazon.com/startups/events/navigating-the-new-cyber-landscape-the-impact-of-agentic-ai?trk=cb187131-a909-4bba-9e37-8d7fff22d65e&sc_channel=el\n\nThe rise of agentic AI is fundamentally reshaping enterprise security, creating both opportunities and challenges as organizations navigate this evolving landscape. While AI agents offer powerful capabilities for automation, threat detection, and response, they also introduce new attack vectors and supply chain vulnerabilities. This transformation raises critical questions about the future of infrastructure—potentially shifting from cloud-centric to hybrid models—and the role of AI in protective security measures.\n\nJoin AWS, Evolution Equity, SYN Ventures, and BoldStart in exploring these critical implications and learn how leading organizations are leveraging AI to transform their security strategies while managing emerging risks\n\nRegistration Information: Due to high demand and limited capacity, submitting a registration does not guarantee entry. All RSVPs will be reviewed and approved on a weekly basis, with confirmation emails being sent to approvals.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Alternative Data Happy Hour",
+    "start_time": "Tuesday, June 3, 2025 at 4:45 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/MeximK3dNDT1rssGyFWW?",
+    "hosts": "Amass Insights",
+    "target_audiences": "Investors, Finance",
+    "themes": "AI, B2B, Fundraising / Investing",
+    "formats": "Happy Hour",
+    "description": "A special NY Tech Week edition of the monthly informal happy hour networking event for alternative data industry participants, such as asset managers, data providers, data buyers and various data experts.\n\nAgenda: Nothing formal, just good old-fashioned mingling & intelligent conversation. I ask everyone to just be respectful, listen to others, and contribute naturally. And, if you want, we can talk about anything I've written about!\n\nInvitations: Forward this invite to your friends/colleagues, but to ensure they receive future invitations, share the sign up form here.\n\nCost: Free, but you handle your own tab. Happy hour specials last until 7 PM so come early rather than late! We'll also provide light appetizers on a complimentary basis!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "AI Researcher Dinner",
     "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
     "neighborhood": "SoHo",
@@ -1516,6 +1736,17 @@
     "themes": "AI",
     "formats": "Dinner",
     "description": "After the resounding success of the AI Researcher dinner series in San Francisco and New York, Flying Fish Ventures is bringing this curated dinner to NY Tech Week 2025.\n\nJoin us for an private dinner that brings together research scientists, applied‑science leads, AI startup founders and CTOs. Expect candid, cross‑disciplinary conversation, great food, and the chance to spark collaborations that move the field forward.\n\n\n​​​More about Flying Fish\n\n​​​Flying Fish Ventures is an early-stage venture capital firm that invests in AI/ML startups and AI infrastructure. The fund was founded by previous Microsoft AI team in 2017 and is heavily indexed to technical founders who are solving complex problems in their respective fields.\n\n​Previous researchers we have backed:\n\n​​Jim Gao and Veda Panneershelvam (AlphaGo, DeepMind) now building phaidra.ai\n\n​Hussein Fawzi and Bernardino Romera-Paredes (FunSearch, AlphaTensor, AlphaFold, Deepmind) now building Hiverge\n\n​​Jason Rolfe (LeCun lab) now building variational.ai\n\n​​Jonathan Godwin (DeepMind) now building orbitalmaterials.com\n\n​​Matthew Bick (Institute of Protein Design, Baker Lab) now building stealth biotech\n\n​Simon Kohl (Alphafold, DeepMind) now building latentlabs.com\n\n​​Ang Li (DeepMind) now building simular.ai\n\n​​Martha White (Reinforcement Learning and AI Lab (RLAI), Amii) now building rlcore.ai\n\n​​Brian Tanner (DeepMind) now building artificial.agency​\n\n​​more info @ flyingfish.vc.\n\n\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Founders Night Out",
+    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
+    "neighborhood": "Financial District",
+    "url": "https://partiful.com/e/v3huLDUnJHxeEDu0YKTj",
+    "hosts": "Arc",
+    "target_audiences": "Founders ($1-5M Raised), Investors",
+    "themes": "Fintech, Fundraising / Investing",
+    "formats": "Networking",
+    "description": "The team at Arc invites you to join us for a night of celebrating NY Tech week and NYC summer on our beautiful terrace! There will be plenty of drinks, food, and good times. Stop here after your day of panels and before your late night of after parties! \n\nFounders + Investors alike are welcome! \n\nMore details to come!!!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "AI Agents in the Enterprise",
@@ -1529,15 +1760,15 @@
     "description": "Agentic AI isn't just a headline - it's a fundamental shift in how we work. \n\nIn this dynamic panel, we’ll cut through the hype to examine where AI agents are making a real impact today—and where they're headed next. Hear directly from enterprise leaders at Liberty Bloom (a Liberty Global company), Genpact, and more as they share how they’re implementing agentic AI in the real world, with measurable results.\n\nJoin us for an unfiltered conversation about the tangible impact of AI agents across Higher Education, Healthcare, Telecom, and beyond. We’ll explore how these agents are reshaping industries right now—and what their future trajectory means for you.\n\nStay tuned for exciting announcements of our speaker lineup!\n\nWho should attend?\nIf you're curious about how leading enterprises are using cutting-edge technology to reshape the way we work, this panel is for you. Whether you're a business leader seeking real-world ROI stories and use cases for your organization, or a technology leader ready to put AI into action, you’ll walk away with insights and practical takeaways you can apply immediately.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Tech Talks at Hinge: Building Connection in the Ag",
-    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
-    "neighborhood": "Meatpacking District",
-    "url": "Invite Only",
-    "hosts": "Hinge",
-    "target_audiences": "Engineers, Product",
-    "themes": "AI",
-    "formats": "Panel event or fireside chat",
-    "description": null
+    "event_name": "The Future of Agents: An Executive Roundtable",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
+    "neighborhood": "Brooklyn",
+    "url": "https://partiful.com/e/DsJsVr4yA4b1cXhmsnfu",
+    "hosts": "Rasa",
+    "target_audiences": "Engineers, Creators",
+    "themes": "AI, B2B, Engineering",
+    "formats": "Roundtable / Workshop",
+    "description": "Welcome to The Future of Agents: An Executive Roundtable. \nJoin us for a thought-provoking discussion on the future of agents. This in-person event will take place at the stylish Lure Fishbar. Get ready to network with top executives and gain valuable insights into the evolving role of agents. Don't miss this opportunity to be part of shaping the future of Conversational AI.\n\nThis executive dinner brings together 20 senior leaders focused on making AI work in the real world: systems that handle edge cases, protect customer trust, and scale without rebuilding from scratch.\n\nThis invitation-only gathering creates a confidential space for leaders to:\n- Have candid discussions about the emerging spectrum of agent capabilities and where production-grade business solutions should focus\n- Uncover real world lessons on strategies for building AI systems that gracefully handle edge cases\n- Learn how to maintain customer trust when automation meets human complexity\n- Connect with peers solving similar challenges over a 3-course meal\n\nEXCLUSIVE ATTENDANCE\nAttendance is strictly limited to senior decision-makers leading AI, digital transformation, or customer experience at scale. If that's you, we'd love to have you at the table.\n\nSpots are filling quickly. Invitations are non-transferable.\n\n\nAbout Rasa\nRasa simplifies building complex conversational AI by extending LLMs with reliable business logic. Our platform enables enterprises to build sophisticated AI assistants that handle millions of interactions securely—giving you complete control to scale automation.\n\nAs innovation leaders since 2016, our high-trust platform uniquely bridges technical and business needs, enabling effective collaboration between developers and designers. With Rasa, you future-proof your AI investments: forged through every major shift in conversational AI, our platform ensures you’re never tied to a single model or trend, but equipped to adapt—and lead.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Human-first sales powered by AI",
@@ -1584,15 +1815,15 @@
     "description": "Community is no longer optional for sustainable growth.\n\nJoin us for a panel with the community leads at Wiz, Beehiiv, and Clay exploring how the fastest-growing businesses in SaaS scale their marketing, sales, support, and brand with community. We'll explore how their businesses prioritize community-building and share real tactics for community-led growth.\n\nOur speakers:\n💛 Avital Knoller of Wiz (wiz.io)\n💛 EJ White of beehiiv (beehiiv.com)\n💛 Peter Kang of Clay (clay.com)\n\nYour hosts:\n🩶 Tightknit, the community platform built for B2B SaaS (tightknit.ai)\n🩶 Fabrik, an NYC place to belong (joinfabrik.com)\n\nAs this event has limited space, we will prioritize founders, community managers, customer support leaders, and customer marketers. Still, if you have a great story to tell, we'd love to hear it in the signup form.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Founders N’ Funders",
+    "event_name": "Founders N' Funders Happy Hour",
     "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
     "neighborhood": "SoHo",
-    "url": "Invite Only",
+    "url": "https://partiful.com/e/QM3WIoBg7LF125YQIE9O",
     "hosts": "Founders N’ Funders",
     "target_audiences": "Founders ($1-5M Raised), Investors",
     "themes": "Fundraising / Investing, B2B, AI",
     "formats": "Happy hour",
-    "description": null
+    "description": "✅ THIS EVENT WILL SELL OUT!!!!\n\n​Looking for funding? Then join us on NYC's biggest rooftop for an evening of exceptional networking!\n\n​Founders N’ Funders has become one of the hottest networking events at Tech Weeks across the nation and is known for fostering highly beneficial relationships, resulting in multiple term sheets and successful funding rounds!\n\n​✅ Apply now!\n\n​**This highly curated event prioritizes Seed and Series A founders actively raising capital.**\n\n​⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️\n\n​SPONSORED BY THESE AWESOME COMPANIES!\n\n​⭐️ Capsoft — Tailored software development for founders and investors. mike@capsoft.com\n\n​⭐️ Fidelity Private Shares — The all-in-one equity management platform. jason.hammond@fmr.com  \n\n​⭐️Justworks — Scalable HR solutions to run & grow your business. mdunckley@justworks.com  \n\n​⭐️ Forecastr — Financial modeling made easy. jeff@forecastr.co\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "AI for Energy, Infrastructure, & Deep Tech",
@@ -1606,8 +1837,8 @@
     "description": "AI is projected to drive a 20% reduction in global energy emissions by 2030, yet less than 5% of deep tech startups are fully leveraging its potential today. In this panel, we explore how AI is transforming the built environment, infrastructure systems, and the deep tech application layer—from optimizing grid efficiency to accelerating materials discovery and decarbonizing industrial processes. Join leading founders, researchers, and investors at the intersection of AI, energy, and next-gen infrastructure as we unpack what’s next—and what’s needed to scale impact fast.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Artificially Un-Intelligent Tech Comedy Show (June 3)",
-    "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
+    "event_name": "Artificially Un-Intelligent Comedy @ , brought to you by Puzzle, Vanta, and Ramp",
+    "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "Union Square",
     "url": "https://partiful.com/e/tCoXW3JLqB9zkmY9G4Pe",
     "hosts": "Not So Daily Stand Up Comedy LLC",
@@ -1639,19 +1870,19 @@
     "description": "Calling all product people – founders, product managers, product marketing managers, designers, etc. Come through for drinks, meet fellow product folks, and get to know our vibrant community! \n\nThis event will be co-hosted by Merge and Schaeffer Arnold. \n\nThe Friends of Lenny’s Newsletter community is for anyone building product, driving growth, or looking to uplevel their product career. The community includes 20,000+ PMs, founders, growth leaders, and builders. Join us at LennysNewsletter.com.\n\nFree drinks courtesy of Merge.dev - Merge makes integrating with your customers' software vendors easy. Add hundreds of integrations to your B2B SaaS products with unified APIs for file storage, ticketing, CRM, ATS, HRIS, and accounting.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Nvidia x Vercel World's Shortest Hackathon",
+    "event_name": "World's Shortest Hackathon Vercel x NVIDIA",
     "start_time": "Tuesday, June 3, 2025 at 4:00 AM EDT",
     "neighborhood": "Flatiron",
-    "url": "Invite Only",
+    "url": "https://partiful.com/e/ld6jPlkRnsj4J1R9rnHk",
     "hosts": "Vercel",
     "target_audiences": "Engineers, Product",
     "themes": "AI, Engineering",
     "formats": "Hackathon",
-    "description": null
+    "description": "NVIDIA and Vercel are teaming up and taking the World’s Shortest Hackathon to NY Tech Week!\n\nWe’re throwing a full hackathon in two hours, limited to 50 teams of 2. Leave the sleeping bag at home and come equipped with your best prompts and most powerful AI—and let it rip!\n\nFor prizes, we’ll have free credits from the best developer tools, and each person from the winning team will go home with an NVIDIA GPU signed by the man upstairs (Jensen Huang).\n\nPrize: Winning team (of 1 or 2) will receive a GeForce RTX 5080 signed by Jensen Huang, Vercel credits + more prizes to come.\n\nExact Location disclosed upon approval. \n\nWe thank our venue sponsor Codi  & GFP for making this event possible.\n\nCodi is the easiest way to set up & manage your office - furniture, cleaning, internet/IT, pantry & supply restocking, vendor coordination - all handled for you, in one place.\n\nGFP provides great offices throughout NYC to fast-growing startups\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "District NYC Launch Party",
-    "start_time": "Tuesday, June 3, 2025 at 5:30 AM EDT",
+    "event_name": "District NYC Community Launch Party",
+    "start_time": "Tuesday, June 3, 2025 at 6:30 AM EDT",
     "neighborhood": "Flatiron",
     "url": "https://partiful.com/e/J6MPJ4GnUUrWdVu6NNTZ",
     "hosts": "District",
@@ -1670,17 +1901,6 @@
     "themes": "Fundraising / Investing, GTM",
     "formats": "Panel / Fireside Chat",
     "description": "The Why, When, and How to Build Your Ideal Advisory & Governing Boards to help you fundraise and scale.\n\n​Boards should not be scary! They can be your rocket fuel and help you access capital!\n\nJoin us for an insightful and engaging discussion as The Fourth Effect team demystifies the world of advisory and governing boards for startup founders. Together, we’ll dive into the nuts and bolts of building “fit-for-purpose” boards that serve as your ultimate \"cheat sheet\" to success.\n\nWhat You’ll Learn:\n\n- Advisory Boards vs. Governing Boards: Understand the key differences, roles, and the right time to build them.\n- Investor Appeal: Discover how a strong advisory board can enhance your fundability and support your growth.\n- Board Strategy: Gain tips for navigating board dynamics and establishing governance early.\n- Finding the Right People: Learn how to source the best board members and avoid common pitfalls.\n- Diversity Matters: Explore how diverse boards improve decision-making, reduce risks, and drive better outcomes.\n\nWe’ll share real-world lessons on building impactful boards, overcoming challenges, and leveraging them to maintain control while scaling your company.\n\nWho:\n\nModerator: Andy Walsh, Startup Strategist and Podcast Host of Startups Decoded, a 3x founder with two exits, achieving over $10M ARR by scaling startups from concept to exit. As an advisor, mentor, and angel investor, he focuses on building impactful ventures and cultivating thriving startup communities. Startups Decoded is a podcast featuring candid conversations with industry leaders on the real challenges of startup growth.\n\nSpeaker: Breen Sullivan, founder of The Fourth Effect,  began her career as a General Counsel for high growth tech companies where she saw an opportunity to leverage technology and community to change the board and innovation landscape.  She founded The Fourth Effect in 2019, a community-powered networking and matchmaking site that helps startups find the right people at the right time, fundraise more effectively and scale, while also helping executives advance professionally and build wealth by breaking into a powerful entrepreneurial ecosystem.\n\nSpeaker: Rachel ten Brink is General Partner and co-founder of Red Bike Capital, an early stage Venture Capital fund based in New York that invests in Data & AI, SAAS, Fintech and Healthcare & Wellness. She is the co-founder of Scentibrd, a Y-Combinator backed ecommerce subscription that raised $29 million in venture funding. Rachel was CMO/CRO leading Growth and Revenue. Scentbird was named Top Y Combinator Company by Revenue. Rachel has been a board member and senior advisor for various companies and serves on the Board of Directors of Dyper. Before this, she spent 15 years as an operator building billion-brands at Elizabeth Arden, Estee Lauder, L’Oreal, and Procter & Gamble.Rachel serves as Chair of the Board of Latinas in Tech, holds an M.B.A. from Columbia Business School, and graduated magna cum laude from Babson College.\n\nWhether you’re at the pre-seed stage or gearing up for Series A, this discussion is packed with actionable insights to help you structure boards that add real value and earn investor confidence. Boards can be an access path to capital!\n\nGet your burning questions answered in the live Q&A. Let’s unlock your startup’s full potential through strategic board-building!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
-    "event_name": "Aligning SEO, Brand, and Content for Growth",
-    "start_time": "Monday, June 2, 2025 at 9:00 PM EDT",
-    "neighborhood": "Hudson Yards",
-    "url": "https://partiful.com/e/MHaRV9wxuWxqk3eICscb",
-    "hosts": "Fluentica",
-    "target_audiences": "Founders ($1-5M Raised)",
-    "themes": "B2B, Women-focused, Media / Entertainment",
-    "formats": "Panel / Fireside Chat",
-    "description": "While SEO is often treated as a technical afterthought, it’s actually a strategic powerhouse when it’s aligned with brand, content, and social. This panel will unpack how SEO doesn’t exist in a silo but thrives at the intersection of clear brand positioning, compelling content, and a consistent social presence. The session is designed to show founders and marketers how to stop treating SEO like a checklist and treat it like a growth engine that connects all marketing functions.\n\nDiscussion topics:\n* SEO as a strategic foundation: How keyword research can inform not just blog titles, but your brand language, content direction, and even product naming.\n* Brand strategy meets search: Why having a distinct voice and positioning makes your SEO efforts actually stick (aka: how to rank and be remembered).\n* Content that converts and climbs: The art of writing for people and search engines. Plus, the case for long-form, faceless videos, and how content strategy supports retention.\n* Social media as the amplifier: How social signals, shareable content, and micro-SEO moments on platforms like LinkedIn and TikTok drive discovery and build authority.\n* What startups get wrong (and how to fix it): Misaligned messaging, “too soon” SEO, or “just blogging”—the traps early-stage startups fall into and how to shift.\n\nGet your SEO and marketing questions answered, and connect with others who are building and scaling in the NY tech ecosystem\n\n\nKnow the Speakers:\n\n•\tLisandra de la Paz – Brand Strategy & Messaging\n\nFrom Univision to Droga5, Lisandra has helped shape how national brands and media connect with their audiences through story and strategy. Now as co-founder of Fluentica, she guides startups to go from generic to unforgettable through brand positioning that fuels growth.\n\n•\tAmy Perez – Marketer\n\nAmy is an intuitive problem solver with a wide range of experience—from grassroots nonprofits to B2B tech and B2C law. She specializes in building brands from the ground up. As co-founder of Fluentica, she’s focused on helping the next generation of bold brands thrive.\n\n•\tSabrina Ramos – Event Experience & Brand Activation\n\nFounder of Pop Spark, an experiential marketing agency that specializes in creating pop-up experiences for growing businesses that don't just introduce your brand to the world, but invite the audience to become part of your story.\n\n•\tNadya Ramos - Social Media Strategist\n\nShe’s a social media strategist who has launched campaigns generating thousands of impressions. She’s developed and hosted video content with a loyal Latino audience, co-scripted and hosted a TV special on CW Philly spotlighting Latino talent, and served as a spokesperson for clients on Spanish-language media.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "NYC Reimagined: A VIP Party for NYC Tech Leaders",
@@ -1705,7 +1925,7 @@
     "description": "Join us in a stunning Penthouse in NYC to discuss AI x Creator Monetization: Tools, Tactics, and What’s Next \n\nBeacons is hosting a panel + networking event focused on how AI is reshaping creator monetization, digital storefronts, and platform infrastructure. \n\nThis event will explore how creators are using AI to streamline workflows, generate income, and build scalable businesses — and what platforms, brands, and managers can do to support that shift.\n\n➡️ Hear from:\n-Neal Jean, Co-Founder & CEO, Beacons AI\n-Agency leader driving creator partnerships\n-Influencer marketing manager at a leading brand\n-Top creator building a scalable online business\n\n➡️ What you’ll take away:\n- Actionable insights on leveraging AI to boost creator revenue\n- Curated connections with leading platforms, agencies, and creators\n\n➡️ Who this event is for:\n-Agencies: talent managers driving deals for creators\n-Brands: marketing leads and decision makers partnering with creator talent\n-Industry leaders: product builders, platform partners, and investors shaping the creator-tech landscape\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
-    "event_name": "Mental Gym: AI Strategy HIIT for Founders",
+    "event_name": "Mental Gym: AI HIIT for Operators",
     "start_time": "Tuesday, June 3, 2025 at 2:00 AM EDT",
     "neighborhood": "SoHo",
     "url": "https://partiful.com/e/QJlipsu2gyQYGQ623UGH",
@@ -1815,7 +2035,7 @@
     "description": "The way we watch, cheer, and connect with sports has fundamentally changed. From AI-personalized content and XR-enhanced broadcasts to biometric access, fans today are immersed in a digitally native experience like never before. \n\nThis panel brings together trailblazers at the intersection of sports, media, law, and technology to explore how innovation is shaping the fan journey—from the stadium to the live stream. We’ll tackle cutting-edge topics like biometrics and privacy, frictionless payments, immersive fan engagement, and the evolving role of data in the loyalty economy. \n\nJoin us to discover what the next decade of sports fandom will look like—and who’s building it. \n\n- Biometrics + Privacy: Facial recognition, data ethics, and fan consent \n\n- Frictionless Payments: Tap-and-go access and cashless everything \n\n- Immersive Tech: Enhanced venue and second-screen fan experiences  \n\n- Fan Data & Loyalty: AI, the direct-to-fan revolution, and personalized offerings \n\n125 Ventures is a NYC-based venture capital firm investing in the future of sports, media, and entertainment companies at the intersection of tech. We envision immense potential for technology to continue revolutionizing the sports, media, and entertainment landscape. In pursuit of this vision, 125 Ventures is focused on investing in emerging technologies and platforms on the cusp of transforming the sports, media, and entertainment sectors. This includes the Rise of Women's Sports, AI and Data Analytics, College Athletics and Name, Image and Likeness, Content Creator Economy and Communities, and Live and immersive Events and Entertainment.\n\nPerkins Coie’s Emerging Companies & Venture Capital lawyers are trusted advisors to the world’s most innovative companies and most visionary investors. We support startup clients from formation to exit with comprehensive legal and business counseling. Our clients have raised more than $15 billion in the private markets over the past three years between the pre-seed and growth stage. Our extensive corporate law experience, combined with sector-specific business and product counseling, ensure our services are tailored to each client's unique needs, investor expectations, and growth trajectories in cutting-edge industries like AI, aerospace and defense tech, fintech, digital health, gaming, energy innovation, digital media, and consumer packaged goods.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\n​The event hosts and sponsors may use the personal information we collect from and about you for business purposes such as sending newsletters, updates, and other communications we think will be of interest to you, including about our services, programming, and events unless you have opted out of such communications."
   },
   {
-    "event_name": "Tech Week AI Takeaways with Pinecone",
+    "event_name": "Pinecone for Startups: Tech Week AI Takeaways with Pinecone",
     "start_time": "Tuesday, June 3, 2025 at 12:30 AM EDT",
     "neighborhood": "Midtown",
     "url": "https://partiful.com/e/V5UCtt0IWkCBpY46Hn0y",
@@ -1991,8 +2211,8 @@
     "description": "AI Agents aren’t the future — they’re already changing how high-performing teams operate today. Join us for an exclusive lunch session for a game plan on how to empower your teams to tap AI agents that take on repetitive tasks, streamline workflows, and give back time for high-impact work — no coding required. We’ll share real-world use cases, live demos, and how business leaders are deploying AI to move faster, boost output, and drive smarter decisions across their orgs. Come for the lunch. Leave with a game plan to scale productivity with AI. \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nIBM may take group photos or perform live streaming during the event for promotional purposes."
   },
   {
-    "event_name": "Work Smarter: Build an AI Agent in 5 Minutes",
-    "start_time": "Tuesday, June 3, 2025 at 2:30 AM EDT",
+    "event_name": "Work Smarter, Not Harder: Build an AI Agent in 5 Minutes",
+    "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
     "neighborhood": "Flatiron",
     "url": "https://partiful.com/e/hDmu9VB6z66SQArqDLFF",
     "hosts": "IBM",
@@ -2024,7 +2244,7 @@
     "description": null
   },
   {
-    "event_name": "Vertical AI Panel - EliseAI ",
+    "event_name": "EliseAI x Basis: The Future of Industry-Specific AI",
     "start_time": "Tuesday, June 3, 2025 at 6:00 AM EDT",
     "neighborhood": "Murray Hill",
     "url": "https://partiful.com/e/BDMPOafmoCkwtP1xQcPt",
@@ -2068,18 +2288,7 @@
     "description": "These coffee meetups are a great opportunity to connect with local VCs in your area as well as other founders at the beginning of their startup journey. Join us at one of our local meet-up spots across the city at 8:30 a.m. on June 3rd!\n\nPlease review the locations below and sign-up for only one meetup. The precise location will be shared via email prior to the event start.\n\nLocations: \nTBD!\n\nThis event is sponsored by Rho. Rho is the business banking platform with everything founders need to manage their company cash and grow their business. See how they are supporting founders in NYC – and earn rewards for switching your operating account to Rho.\n\nThis is event is hosted by nextNYC. To learn more about nextNYC and/or sign up for their newsletter, visit http://next.nyc\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Digitalundivided's Startup Showcase",
-    "start_time": "Tuesday, June 3, 2025 at 12:00 AM EDT",
-    "neighborhood": "Union Square",
-    "url": "https://partiful.com/e/GY9H8NMigqz8b9DzRlF8",
-    "hosts": "Digitalundivided",
-    "target_audiences": "Investors, Founders ($1-5M Raised)",
-    "themes": "Fundraising / Investing, Women-focused",
-    "formats": "Pitch Event / Demo Day",
-    "description": "#NYTechWeek | Where One Pitch Can Open Every Door\n\nFor most early-stage founders, the pitch is everything.\n\nIt’s not just about securing capital — it’s about creating a moment. A strong pitch can lead to your next investor, a strategic partner, or even your first major customer. And at this year’s #NYTechWeek, Digitalundivided is creating the space for those moments to happen.\n\nWelcome to High-Velocity Investor Link — a fast-paced, high-stakes showcase for Seed and Series A founders ready to break through. Think speed dating, but for startups and the people who can help them grow: investors, industry experts, and startup ecosystem partners.\n\n🚀 Accelerated Access: The Pitch Experience\nEach selected founder will enter a lightning-round pitch circuit — three minutes to make their case to one of five curated investors or ecosystem leaders. Then, in just one powerful minute, that expert will deliver pointed, personalized feedback and make their call: Do they want to continue the conversation?\n\nThis is rapid connection with real outcomes.\n\n🎤 Post-Pitch Panel: Scaling Smart After the Raise\nAfter the pitch rounds, stick around for a candid panel conversation featuring investors and operators who’ve seen it all. They’ll unpack what it takes to grow after your first raise — and how to keep the momentum going when the spotlight fades.\n\n🤝 Purposeful Networking\nClose out the evening with meaningful networking over food and drinks. Build relationships with founders, investors, and innovation leaders who share your vision for what's possible.\n\nWant in?\nApply now to be considered for a pitching slot. Spots are limited and reserved for founders who are ready to scale and show up strong.\nNote: You must RSVP for the event and complete the CapXS application form (link above).\n\nThis is more than a showcase — it’s your shot to build something lasting.\n\nSpots are very limited, so don’t wait!\n\nThis event is part of #NYTechWeek – a week full of events hosted by VCs and startups to bring together the tech community. Learn more at www.tech-week.com."
-  },
-  {
-    "event_name": "AI Anywhere with Synadia Edge-Native Tech Stack",
+    "event_name": "Real-Time Telemetry at Scale: From Edge to Cloud with Google Cloud Bigtable and Synadia",
     "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
     "neighborhood": "Chelsea",
     "url": "https://partiful.com/e/vERqRFkfsWkFkLBdipzG",
@@ -2134,18 +2343,7 @@
     "description": "Join the Anthropic team for a Tech Week AI Founder Salon and meet fellow builders scaling AI companies.\n\nJoin us for deep dives with:\n• Kate Jensen - Head of Revenue, Anthropic\n• Michael Gerstenhaber, VP Product, Anthropic \n• Chris Gorgolewski, Computer Use, Anthropic \n• Pim de Witte, CEO, Highlight\n• Niko Grupen Head of Applied AI, Harvey AI\n• Jeff Barg  Head of AI Research, Clay \n​\nAn exclusive, invitation-only gathering bringing together technical decision-makers and AI builders for:\n• Deep-dive on Claude's capabilities\n• Building AI companies and products\n• Latest research from Anthropic's team\n\n\nThe Anthropic Startup and Research teams will be here to chat with you and provide credits for all founders during the event.\n\nLite bites and refreshments will be available and bring your questions about building with LLMs and be ready to dive into technical details with other founders and creators.\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Navigating the Unpredictable: Strategies for the evolving work landscape",
-    "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
-    "neighborhood": "Flatiron",
-    "url": "https://partiful.com/e/pLfd3GVrtGIgCnRtJZfi",
-    "hosts": "WeWork",
-    "target_audiences": "Founders ($5M+ Raised), Other",
-    "themes": "B2B",
-    "formats": "Panel event or fireside chat",
-    "description": "Being adaptable is crucial in unpredictable times.\nPrepare for the uncertainties of 2025 by exploring the critical need for flexible workforce and workspace strategies. Join industry leaders to gain actionable insights on implementing successful flexible models in a rapidly changing landscape.\n\nRSVP to attend here. Registrations will open in May.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nBy clicking \"Request to Join\" I acknowledge WeWork's Global Privacy Policy and agree to the Terms of Service."
-  },
-  {
-    "event_name": "The Talent Table - Dinner w/ Deel & Betterment",
+    "event_name": "The Talent Table - Dinner w/ Deel, Betterment, Aidora",
     "start_time": "Tuesday, June 3, 2025 at 5:00 AM EDT",
     "neighborhood": "SoHo",
     "url": "https://partiful.com/e/gQS51dcKBP5JEgsyBwL9",
@@ -2156,7 +2354,7 @@
     "description": "New York Tech Week is buzzing, but sometimes, the best conversations happen away from the noise. The Talent Table is an exclusive dinner bringing together Heads of People, HR leaders, and talent strategists shaping the future of work in tech.\n\nJoin us for an evening of great food, even better company, and candid conversations about what’s next in hiring, retention, compensation, and culture. No panels, no pitches, just a curated group of people leaders swapping insights, challenges, and maybe a few war stories over dinner.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
-    "event_name": "Early Investors Coffee Hour & VC Data Presentation: Antler & Harmonic",
+    "event_name": "Investors Briefing: Signals, Trends, Conviction Patterns with Antler & Harmonic.ai",
     "start_time": "Monday, June 2, 2025 at 7:30 PM EDT",
     "neighborhood": "Flatiron",
     "url": "https://partiful.com/e/kH2kFDfI5XwnolF6rrFn",
@@ -2180,7 +2378,7 @@
   {
     "event_name": "Fullstack Infra for AI: Building Type-Safe Systems for Vibe Coders",
     "start_time": "Tuesday, June 3, 2025 at 4:30 AM EDT",
-    "neighborhood": "SoHo",
+    "neighborhood": "Midtown",
     "url": "https://partiful.com/e/NRjzYND0fupgVCL1niLl",
     "hosts": "Convex",
     "target_audiences": "Engineers, Founders ($0-1M Raised)",
@@ -2234,7 +2432,7 @@
   },
   {
     "event_name": "The Performance Marketing Trap. How to avoid killing your business with performance marketing.",
-    "start_time": "Monday, June 2, 2025 at 9:30 PM EDT",
+    "start_time": "Monday, June 2, 2025 at 9:15 PM EDT",
     "neighborhood": "SoHo",
     "url": "https://partiful.com/e/CYfTqxiVskYk1Ww9UQGv",
     "hosts": "GrowTal",
@@ -2266,9 +2464,9 @@
     "description": "Join fellow founders for an intimate meetup to discuss all things strategy. We will be talking about our businesses and ways to build strong foundations that scale. Whether it’s finance, fundraising, or recruiting we look forward to seeing you there!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.\n\nEvent Hosted by Cherry Hill Advisory."
   },
   {
-    "event_name": "Agentic & Vertical AI - VC + Founder Fireside",
+    "event_name": "Vibe Coaching with AI VC George Bandarian @ Untapped Ventures – Featuring Will Manidis @ ScienceIO",
     "start_time": "Tuesday, June 3, 2025 at 12:00 AM EDT",
-    "neighborhood": "",
+    "neighborhood": "Virtual (NYC)",
     "url": "https://partiful.com/e/ol80c225o3YFpvumks5w",
     "hosts": "Untapped Ventures",
     "target_audiences": "Engineers, Founders ($0-1M Raised)",
@@ -2290,7 +2488,7 @@
   {
     "event_name": "Cocktails & Startup Dreams Valet A.I. Launch Party",
     "start_time": "Tuesday, June 3, 2025 at 3:00 AM EDT",
-    "neighborhood": "SoHo",
+    "neighborhood": "Midtown",
     "url": "https://partiful.com/e/s2aJwNpxQfWfiWFszwBz",
     "hosts": "Opps.ai",
     "target_audiences": "Founders ($1-5M Raised), Founders ($5M+ Raised)",

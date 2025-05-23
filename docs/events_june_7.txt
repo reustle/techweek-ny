@@ -33,6 +33,28 @@
     "description": "🍕🍕Join us for Pizza After Work on May 22nd: https://lu.ma/iu24dzbc\n\n\n\nIn town for Tech Week? Or just looking for a fun way to explore NYC? Come join us for a pizza crawl! 🍕\n\nWhether you’re visiting the city or a local New Yorker, our pizza crawl is open to anyone who loves good pizza, good vibes, and discovering new neighborhoods one slice at a time.\n\nYes, a lot of folks who joining are in tech—founders, investors, designers, developers, marketers—but you absolutely don’t have to be. If you love exploring NYC, meeting new people, and eating incredible pizza, this is the crew for you.\n\nNo panels. No pitches. Just a laid-back afternoon filled with good conversation, great people, and amazing pizza. Come hungry! 🍕✨\n\nAll are welcome!\n\n🍕 What is ‘NYC Pizza Crawl’ all about? 🍕\n\nWe’re bringing people together from all backgrounds through a shared love of pizza. Each month, we explore a different NYC neighborhood, sampling slices from four standout pizza shops. But this isn’t just about the food—it’s about connection, conversation, and community.\n\nWhat sets our crawls apart is the focus on building new friendships along the way. As you savor some of the city’s best slices, you’ll have plenty of opportunities to engage in great conversations and get to know your fellow pizza adventurers. After all, the heart of this group isn’t just pizza—it’s the people who come together to enjoy it.\n\nInstagram: https://www.instagram.com/newyorkcitypizzacrawl/\n\n\n\nEvent Details: \nDate: Saturday, June 7th, 2025\nMeeting Location: TBD\nMeeting Time: 12:00 PM\nLength of crawl: About 3-4 hours. \nCost: Pay as you go. \n\nThe spots we will be visiting: We will visit 3-4 spots. TBD. \n\n⭐⭐For Attendees⭐⭐\n\nBe Kind\n\nLet’s keep the good vibes going by being kind—to each other and to those around us. We’re here for great pizza and even better company, so let’s make sure everyone feels welcome and respected.\n\nIf you ever feel uncomfortable or notice someone acting inappropriately, please let me know right away. We have a zero-tolerance policy for bad behavior—anyone who violates this may be asked to leave and will not be welcome at future events.\n\nKindness and respect are the foundation of this community. Let’s keep it that way.\n\nFamily-Friendly Environment\nEveryone is welcome at our events! Feel free to bring your kids, partner, or parents along for the pizza adventure.\n\nOpen to All\nWhether you're a local NYC resident, a visitor from another state, or traveling from overseas, we warmly invite you to join our pizza crawls.\n\nSocial Atmosphere\nOur events are naturally social and interactive. Please come prepared to engage with fellow pizza enthusiasts and enjoy lively conversations.\n\nAllergy Awareness\nIf you have food allergies or gluten sensitivities, please exercise caution when eating. Many pizza restaurants may have cross-contamination in their kitchens, so stay vigilant.\n\nEvent RSVPs\n\nTo maintain the quality of our events, each one will have a limited number of spots. This ensures that everyone has a great experience without overcrowding and long wait times.\nWhen you RSVP to an event, you’re committing to attend. We understand that sometimes plans change, so if you need to cancel, please do so as soon as possible. This allows us to offer your spot to someone on the waitlist who is eager to join.\nYour commitment helps us build a vibrant and active community.\n\nEvent Photos/Video\nBy participating in our events, you consent to being photographed or filmed. These photos and videos may be used for promotional and marketing purposes on Reddit and our website.\n\nDisclaimer\nOur events are independently organized and not affiliated with Reddit Inc. This group is volunteer-run with the goal of promoting the pizza community. We have no official connection to Reddit Inc.\n\n\n\n\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Yankees v Red Sox: Founders Suite",
+    "start_time": "Saturday, June 7, 2025 at 6:00 AM EDT",
+    "neighborhood": null,
+    "url": "https://partiful.com/e/z9BRYluGFbGWDj2B16fB",
+    "hosts": "Agency",
+    "target_audiences": "Founders ($1-5M Raised), Founders ($5M+ Raised)",
+    "themes": "SaaS, B2B, AI",
+    "formats": "Happy hour",
+    "description": "Step up to the plate with NYC Tech Week’s All-Star lineup—join 100 VIP powerhouse founders and investors in our epic private suite as the Yankees face off against the Red Sox. Grab a beer, snag a hot dog, and network in style while cheering on the home team. \nHosted by Agency (getAgency.com) & Vanta (Vanta.com)\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Headstart Beer Pong Tourney",
+    "start_time": "Saturday, June 7, 2025 at 1:00 AM EDT",
+    "neighborhood": "SoHo",
+    "url": "https://partiful.com/e/MDG76GfnSDhYp34pMFGa?",
+    "hosts": "Headstart",
+    "target_audiences": "Engineers, Founders ($5M+ Raised)",
+    "themes": "Engineering, AI",
+    "formats": "Happy hour",
+    "description": "Get ready for the ultimate showdown at the Headstart #NYTechWeek Beer Pong Tourney! Join us on Saturday, June 7 at 2:00pm for cold drinks, fierce competition, and good vibes with the best folks NYC has to offer. Whether you're a seasoned champion or a rookie, grab a partner and bring your A-game. Prizes, bragging rights, and plenty of pong await at 584 Broadway, Suite 501. If you're on the list, feel free to bring a friend or two!\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Let's Vibe: Workshops, Networking, and Hackathon!",
     "start_time": "Friday, June 6, 2025 at 7:00 PM EDT",
     "neighborhood": "Midtown",
@@ -77,15 +99,26 @@
     "description": "AI for Understanding Customer Needs: Personalization, Prediction & Growth\n\nDate: Friday, June 7\nTime: 11:30 AM – 1:30 PM\nLocation: PACE Front Yard, New York City\nPart of: #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem.\n\nEvent Overview:\nAs AI continues to evolve, it’s becoming a critical tool for startups and enterprises looking to better understand and serve their customers. From predicting behavior to hyper-personalized marketing, AI-driven insights are changing how companies build products, refine messaging, and drive growth.\n\nThis session brings together founders, product leaders, and AI experts to explore how machine learning and data-driven intelligence can unlock deeper customer understanding—and competitive advantage.\n\nAgenda\n11:30 AM – 11:40 AM\nWelcome & Opening Remarks\n\nIntroduction to the role of AI in transforming customer experience\nKey goals of the session\n11:40 AM – 12:10 PM\nSession 1: From Data to Insight – Using AI to Decode Customer Behavior\n\nTools and techniques for capturing customer data across touchpoints\nHow AI models translate signals into actionable insights\nCase studies: AI-driven decision-making in real-world product and marketing teams\n12:10 PM – 12:40 PM\nSession 2: Personalization at Scale – Building AI-Driven Customer Experiences\n\nRecommendation engines, dynamic content, and personalized UX\nBest practices for balancing automation and human touch\nHow to avoid bias and ensure responsible AI use in customer-facing tools\n12:40 PM – 1:10 PM\nPanel Discussion: Predicting What Customers Really Want\n\nWhat startups are doing to anticipate needs using generative and predictive AI\nThe future of AI in customer development and feedback loops\nPanelists from AI-powered startups and CX leaders share insights and strategies\n1:10 PM – 1:30 PM\nClosing Remarks & Networking\n\nFinal takeaways from the speakers\nOpen networking session with founders, builders, and marketers using AI\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "The Tech Talent Exchange",
-    "start_time": "Friday, June 6, 2025 at 9:00 PM EDT",
-    "neighborhood": "Union Square",
-    "url": "https://partiful.com/e/8jIqRUzbv5JhCCdUMf3t",
-    "hosts": "Black Women Talk Tech, NY Tech Alliance",
-    "target_audiences": "Students, HR",
-    "themes": "HR / Hiring, Engineering, Women-focused",
+    "event_name": "Tennis Topspin & Top-line",
+    "start_time": "Saturday, June 7, 2025 at 12:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/events/wwduSyS0rbn17FD2I8ER",
+    "hosts": "Alice.CPA",
+    "target_audiences": "Finance, Founders ($5M+ Raised)",
+    "themes": "Fundraising / Investing, B2C / Consumer, Fintech",
     "formats": "Experiential",
-    "description": "The NY Tech Alliance is partnering with Black Women Talk Tech (BWTT) to co-host the only startup career fair during NY Tech Week! \nThis one-day event offers attendees the chance to engage and network with industry leaders, and access direct hiring opportunities. The day will also feature insightful panel discussions on job trends, hiring strategies, and other essential topics to equip job seekers with the tools and knowledge they need to thrive in their tech careers.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+    "description": "Presented by Alice.CPA, an audit firm for startups\nOpen to founders, CEOs, CFOs, investors, and startups that are fundraising\n\nHit the court on Saturday for a relaxed and energizing close to NY Tech Week — a casual tennis meetup for founders, funders, and finance folks. Whether you're a seasoned server or just here for the networking, this is your chance to volley ideas, rally, and connect over shared love for the game. Beginner and Advanced courts available.\n\nWe'll have courts, coffee, bagels, and good company — just bring your racket and your energy. While you're off the court, ask Alice.CPA any questions about your company's financials or partner on future due diligence.\n\n📍 Location: Provided upon acceptance\n🕙 Time: Saturday, 1 PM\n🎾 All levels welcome; rackets are available for rental from the tennis club\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "AI for Greater Good",
+    "start_time": "Saturday, June 7, 2025 at 2:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/1XJx3zlhKAvA0o3OYH6e",
+    "hosts": "GEMI.AI",
+    "target_audiences": "Investors, Students",
+    "themes": "AI",
+    "formats": "Networking",
+    "description": "AI and Sustainability #youasyou\n\nThis summer, there are over 900 events talking about AI. We would like one for #youasyou.\n\nIn a world being reshaped by AI, we believe the human spirit must remain at the center. That’s what AI for Greater Good is all about—building technology that helps us live better, think deeper, and stay more connected.\n\nThis event is a part of #NYTechWeek and #AI for Greater Good Challenge. #NYTechWeek is a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. AI for Greater Good Challenge is host by GEMI AI to harness the transformative power of artificial intelligence to drive ethical innovation, social impact, and sustainability. Learn more at https://hub.gemi-ai.tech/ai-for-greater-good. \n\nWe are going to bring the best Pizza in town!"
   },
   {
     "event_name": "The Pickleball Tournament",
@@ -119,6 +152,17 @@
     "themes": "AI",
     "formats": "Breakfast, Brunch or Lunch",
     "description": "🍽️ Luncheon + Lightning Talks + Live Demos\nAn intimate, ticketed lunch event curated for health-tech leaders, founders, and researchers... featuring thought leadership, product showcases, and future-focused conversations in a rooftop setting overlooking the Manhattan skyline.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Rooftop Yoga & Sonic Meditation for Tech Week",
+    "start_time": "Friday, June 6, 2025 at 8:00 PM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/Tm5n7j1ISugmFWkq1QTF",
+    "hosts": "Attentive Wellness by Reify Energy LLC",
+    "target_audiences": "Product, Marketing / Comms",
+    "themes": "Women-focused, Media / Entertainment, Engineering",
+    "formats": "Experiential",
+    "description": "Start your weekend high above the city on the ART Midtown Rooftop with a 60-minute small group yoga and meditation experience followed by juice shots from Lifestyle 1104 Juice Bard for the perfect Saturday Reset before other tech week events\n\nWhat to expect:\n- 40 mins Somatic Yoga: Connect with your body, awaken your senses. Release stress.\n- Guided Sound Meditation: Find calm and presence.\n- Grounding Breathing Exercises: Feel centered and ready for the day.\n\nMeet your instructor:\nGuided by Dí @attentivewellnes, a Certified Wellness Instructor and Tech consultant who helps professionals release stress to improve attention and reclaim presence.\n\nWhy this experience:\n- Small group size: Allows for hands-on assists to deepen your practice & improve alignment\n-Convenience: Mats and hand towels are included!\n-Wellness partners: Lifestyle 1104 Juice Bar shots for purchase post class\n\nSpace is limited for this unique experience so please reserve your spot in advance!\n\nNote: Part of Embodied Presence Rooftop Movement & Meditation Series Saturdays at 9 am\nFirst Saturdays are free/ pay what you can\n\n\nJoin Saturdays for a full mind body reset.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
     "event_name": "Revolutionizing Payment Systems: Leveraging MuleSo",
@@ -176,6 +220,17 @@
     "description": "AI isn't coming — it's already here, embedded in systems that move goods, grow food, design cities, and power daily life. \n\nThe real story is how AI is driving measurable impact in unexpected places.\n\nAt AI Reimagined, we're gathering the people building AI across Finance, Agriculture, Manufacturing, Beauty, Fitness, and more. This is not a 101 session — it's a candid exchange between those pushing boundaries, solving real-world problems, and scaling innovation.\n\nJoin the conversation. Challenge assumptions. Share what you’ve seen — or what you’re building next.\n\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
+    "event_name": "Paintball With Tech Founders #2",
+    "start_time": "Friday, June 6, 2025 at 10:00 PM EDT",
+    "neighborhood": null,
+    "url": "https://partiful.com/e/wFODSwjTOdkVzEbInWxl",
+    "hosts": "Founden.xyz",
+    "target_audiences": "Founders ($1-5M Raised), Founders ($0-1M Raised)",
+    "themes": "Engineering, Fundraising / Investing, Infrastructure",
+    "formats": "Experiential",
+    "description": "🔫 Tech Paintball: Full Speed, Full Trust, No Suits\n​We’re celebrating the launch of the **High Stakes Founders newsletter** (https://highstakesfounders.beehiiv.com/subscribe)—a curated drop of the most electrifying tech gaming events across London, SF, and NYC (e.g. tech poker, tech chess, tech Catan, etc).\n\n​12 events. 3 cities. 3 weeks.\nFrom poker to chess to Catan, every event filters for movement, momentum, and madness.\nNow it’s time for the most physically intense event of them all.\n\n​Welcome to Tech Paintball—where founder instinct meets full-body adrenaline.\n\n​🎯 Full outdoor paintball game (~1hr15 from Central)\n🪖 Gear + ammo included\n🍻 Optional post-match drinks/food for those who survive\n🎟 $60 — covers everything you need to play, including transportation to the venue (~50' by private mini-bus!)\n\n​🧠 Who it’s for:\n\n​Tech founders with a bias toward boldness\n\n​Operators who move fast and play hard\n\n​Investors who’d rather dive behind cover than sit on a panel\n\n​Every attendee is vetted for signal:\n✅ Exceptional ability\n✅ Hunger for impact\n✅ Velocity over vanity\n\n​❌ No consultants\n❌ No agencies\n❌ No students\n\n​🎯 Why it matters:\n\n​You can’t fake who you are under fire.\nThis isn’t about winning. It’s about how you move—how you back your team, manage chaos, and stay sharp under pressure.\n\n​By the end, you’ll be covered in paint and grinning with people you actually want to build with.\n\n​⚡️ Expect to walk away:\n\n​Hyped from the chaos\n\n​Bonded by the bruises\n\n​Sharpened by the squad\n\n​This is founder chemistry at full speed.\n\n​🎟 Spots are limited.\nRequest access now. The sharpest teams form fast.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "South Asian Collective ",
     "start_time": "Saturday, June 7, 2025 at 1:00 AM EDT",
     "neighborhood": "Midtown",
@@ -198,15 +253,26 @@
     "description": "[Product Identity in digital era]\n\nAs our digital livelihoods attain mainstream status in social media, commerce is now social. We explore the question of product identity, authenticating this identity, and visibility to product risks within the emergent intersection of products and people in digital, AI infused era we now live in. \n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Topspin & Topline",
+    "event_name": "The Tech Talent Exchange at !",
     "start_time": "Friday, June 6, 2025 at 9:00 PM EDT",
-    "neighborhood": "Midtown",
-    "url": "https://partiful.com/events/wwduSyS0rbn17FD2I8ER",
-    "hosts": "Alice.CPA",
-    "target_audiences": "Finance, Founders ($5M+ Raised)",
-    "themes": "Fundraising / Investing, B2C / Consumer, Fintech",
+    "neighborhood": "Union Square",
+    "url": "https://partiful.com/e/8jIqRUzbv5JhCCdUMf3t",
+    "hosts": "Black Women Talk Tech, NY Tech Alliance",
+    "target_audiences": "Students, HR",
+    "themes": "HR / Hiring, Engineering, Women-focused",
     "formats": "Experiential",
-    "description": "Presented by Alice.CPA, an audit firm for startups\nOpen to founders, CEOs, CFOs, investors, and startups that are fundraising\n\nHit the court on Saturday for a relaxed and energizing close to NY Tech Week — a casual tennis meetup for founders, funders, and finance folks. Whether you're a seasoned server or just here for the networking, this is your chance to volley ideas, rally, and connect over shared love for the game. Beginner and Advanced courts available.\n\nWe'll have courts, coffee, bagels, and good company — just bring your racket and your energy. While you're off the court, ask Alice.CPA any questions about your company's financials or partner on future due diligence.\n\n📍 Location: Provided upon acceptance\n🕙 Time: Saturday, 1 PM\n🎾 All levels welcome; rackets are available for rental from the tennis club\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+    "description": "The NY Tech Alliance is partnering with Black Women Talk Tech (BWTT) to co-host the only startup career fair during NY Tech Week! \nThis one-day event offers attendees the chance to engage and network with industry leaders, and access direct hiring opportunities. The day will also feature insightful panel discussions on job trends, hiring strategies, and other essential topics to equip job seekers with the tools and knowledge they need to thrive in their tech careers.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "New Friendship Tech Week",
+    "start_time": "Saturday, June 7, 2025 at 9:00 AM EDT",
+    "neighborhood": "Midtown",
+    "url": "https://partiful.com/e/pRb8wWP6sOl727g7L5Er",
+    "hosts": "New Friendship Tech",
+    "target_audiences": "Creators, Founders ($5M+ Raised)",
+    "themes": "Crypto/Web3, AI, Media / Entertainment",
+    "formats": "Networking",
+    "description": "**RSVP Confirmation Required  // Private Event // Entry Subject to Capacity**\n\nTABLE / BOTTLE SERVICE AVAILABLE \n(2 & 3 Bottle Package Options for 6-8 people)\nTO BOOK PLS EMAIL:\nERIC@URCONDUIT.COM\n\nCome party with us in the heart of Little Italy at a private and swanky underground speakeasy, located in the rustic cellar of one of the best and oldest Italian restaurants on Mulberry Street 🍝🥂\n\nBe transported back in time to an era of downtown New York City cool, at an intimate venue not available to the general public. \n\nHear diverse sets from some of the cities best DJs currently spinning in NYC & across the globe on top stages.\n\nPlus a special live performance from a prolific artist you all know and love from the Hip-Hop world.\n\nHang with our beautiful and interesting hosts, who are all a mix of entrepreneurs & artists.\n\nNEW FRIENDSHIP TECH cordially invites you to this special gathering. Looking forward to seeing you there!\n\n-Eric\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "The Quantum Portal: A Bridge Between Worlds",
@@ -253,6 +319,17 @@
     "description": "Event Overview:\n\n​​Join us for a relaxed and informal Tech Week Networking Brunch during NY Tech Week, hosted by Cuculi. Set in a casual ambiance, this event is perfect for those looking to unwind, mingle, and forge new friendships and professional connections within the tech community. It's a wonderful opportunity to share ideas and enjoy good company without the structure of formal presentations or exhibitions.\n\n​​Why Attend?\n\n​​Networking Made Simple: Dive into an environment designed for making connections effortlessly. Our casual setting removes the formalities, allowing you to interact naturally and forge meaningful relationships with tech professionals and enthusiasts alike.\n\n​​Free to Join: There’s no entry fee, making it accessible for everyone. This inclusive approach ensures a diverse mix of participants, enriching the networking experience.\n\n​​The Most Organized Event: From RSVPs to meal/drink ordering and payment, every detail is handled smoothly, allowing you to focus fully on connecting with others and enjoying the evening.\n\n​​Event Highlights:\n\n​​Casual Lunch Setting: Dine and discuss at your leisure, ordering from a curated menu that caters to diverse tastes and dietary needs.\n\n​​Facilitated Connections: Utilize Cuculi’s features to effortlessly connect with other attendees, exchange contact information, and stay in touch post-event.\n\n​As respect to the venue hosting, no-shows will not be invited to other events throughout the week of programming.\n\n​​Dress Code: Business Casual\n\n​​Please note: To support the local restaurants hosting us, there is a minimum one food order policy. This helps us ensure the continued support of our wonderful venue and allows us to bring you more events like this in the future.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
+    "event_name": "Cliqk x SeedLegals: VC Penthouse NYTW Edition",
+    "start_time": "Saturday, June 7, 2025 at 4:00 AM EDT",
+    "neighborhood": "Union Square",
+    "url": "https://partiful.com/e/CmwvPolxoVN8BgnZY1Ww",
+    "hosts": "Cliqk",
+    "target_audiences": "Creators, Founders ($0-1M Raised)",
+    "themes": "AI, Creators, B2C / Consumer",
+    "formats": "Panel event or fireside chat",
+    "description": "VC Penthouse \n\nJoin us for the most exclusive, invite-only penthouse party during New York Tech Week. VC Penthouse is where VCs, angel investors, founders, and top creators converge for an evening of curated conversations, dynamic networking, and fresh perspectives on the future of tech, media, and the creator economy.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "NY Tech Week Money is Funny/Snark Tank Tech Pitch Roast Comedy- Saturday",
     "start_time": "Saturday, June 7, 2025 at 3:00 AM EDT",
     "neighborhood": "East Village",
@@ -262,6 +339,17 @@
     "themes": "AI, Creators, Media / Entertainment",
     "formats": "Panel event or fireside chat",
     "description": "Watch the popular show that blends tech and comedy, featured in the Washington Post and Forbes, that has been touring the country! Founders pitch, then get roasted by a panel of comedians and investors. Interested in applying to pitch? Email: eswaney@gmail.com.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
+    "event_name": "Tech Comedy Night feat. Viral Creators & Wild Tech Demos",
+    "start_time": "Saturday, June 7, 2025 at 7:00 AM EDT",
+    "neighborhood": "Flatiron",
+    "url": "https://partiful.com/e/2uHpIioWS6pIdBlIyUov",
+    "hosts": "Mutiny",
+    "target_audiences": "Creators, Engineers",
+    "themes": "Media / Entertainment, Creators, B2C / Consumer",
+    "formats": "Experiential",
+    "description": "Join us for a hilarious & mind-blowing comedy night with crazy tech demos and a lineup of all-star viral creative technologists feat @ TED, TMZ, BBC, etc.\n\nFeaturing live showcases of apps that defy all common reasoning & interactive comedy acts on a large projector, this will be the best night of NY Tech Week.\n\nTickets are $20, paid at the door. Arrive early, spots are limited!\n\nFeaturing:\n\n- Lucas Rizzotto (Feat @ TED, TMZ, BBC) - From brain computers that can detect if you're looking at someone you find hot, to interactive live acts designed to expose your startup-life dysfunctions to your peers, the internet's mad scientist with +1bn views online has something special planned for you.\n\n- Los Touré (feat @ Gizmodo & CBS) - From dating apps where you can only date him, to an A.I. priest that lets you confess your sins to avoid eternal damnation,  Los will be presenting a number of unhinged  viral apps that will make you question why you chose to join the tech industry in the first place.\n\n - Tina Tarighian (Google Creative Labs & New Museum). Creator of many ridiculous websites (including a viral one that notoriously gambles with your feelings), Tina told us to say that she is very smart and very beautiful. She is also very funny.\n\n- Ali Ahmed (feat @ many CCTV cameras). Ali has done standup around the country and preforms regularly in NY. He’s been seen on CCTV and Ring Cameras all over and has walked by Comedy Cellar on many occasions.\n\nEvent is paid because it'll be fucking good. And we have a bar.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "INSIDE",
@@ -309,7 +397,7 @@
   },
   {
     "event_name": "TKS x GenZtea: AI HACKATHON — ANYBODY CAN BUILD",
-    "start_time": "Friday, June 6, 2025 at 11:00 PM EDT",
+    "start_time": "Friday, June 6, 2025 at 9:00 PM EDT",
     "neighborhood": "Midtown",
     "url": "https://partiful.com/e/tPIxn4DGBlfWYXgzXocN",
     "hosts": "The Knowledge Society (TKS)",
@@ -383,17 +471,6 @@
     "themes": "Engineering",
     "formats": "Networking",
     "description": "Join Peruvians In Tech, during the incredible NY Tech Week, for an afternoon filled with great networking as we walk across the lovely Central Park.\n\nWhether you are starting out in Tech or have many years in the industry, this event is for you and we would love it if you were part of it.\n\nLet's enjoy this beautiful summer afternoon with fellow tech professionals and, at the same time, enjoy the lovely Central Park view. \n\nSee you then!\n\n\nSincerely,\n\nAndrea Chavez\n\nFounder, Peruvians In Tech 🇵🇪\n\n_______________________________\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
-  },
-  {
-    "event_name": "3PercentHacks ",
-    "start_time": "Friday, June 6, 2025 at 8:00 PM EDT",
-    "neighborhood": "SoHo",
-    "url": "https://partiful.com/e/lz74Vlmj2I0eR1tqzSRz",
-    "hosts": "3 Percent Club",
-    "target_audiences": "Founders ($0-1M Raised), Investors",
-    "themes": "AI, Crypto / Web3, Women-focused",
-    "formats": "Hackathon",
-    "description": "Ready to build the future? Join the 3 Percent Club at NY Tech Week for a game-changing hackathon celebrating women, racial minorities, and underrepresented innovators in tech! Founders, developers, and bold thinkers will team up to create cutting-edge blockchain apps from scratch—think Web3, AI, or your wildest ideas. This isn’t just a coding sprint—it’s a chance to network with blockchain trailblazers, top VCs, and industry leaders who champion diverse talent.\n\nTracks to Tackle:\n\n- Web3 Thesis: Decentralize the world, your way\n- AI Thesis: Fuse blockchain with next-gen intelligence\n- General Thesis: No rules, just innovation\n\nHosted by the 3 Percent Club. We are a nonprofit empowering underrepresented founders with funding access, training, and tech skills. This hackathon is all about inclusive impact. Bring your A-game, form a squad (or join one here), and let’s shape an equitable blockchain future together!\n\nWhen: June 5-8, 2025\nWhere: TBD\nPerks: Food & beverage, swag, and insider connections\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Pioneering Minds AI Builder's Showcase",

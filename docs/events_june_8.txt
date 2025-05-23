@@ -99,6 +99,17 @@
     "description": "​After a high-energy week of building, pitching, and powering through NYC Tech Week—come reset with AskPetal.\n\n​We’re hosting an exclusive recovery experience at one of NYC’s most luxurious wellness spa's in SoHo.\n\n​Expect a multi-sensory evening of full-body restoration and mindfulness.\n\n​Unwind with:\n\n​🧊 Cold plunge \n​🔥 Infrared sauna & eucalyptus steam \n♨️ hot tub \n\n​🍹 Curated recovery mocktails & adaptogen infused elixirs\n​🥬 Nourishing bites & detoxifying snacks\n\n​🎁 Gift bags packed with Petal-approved recovery treats for first guests\n\nGuests will also receive a discount code for spa services, massage, facial, to use exclusively for Tech Week. \n\n​Spots are limited—RSVP early to reconnect with your body, meet thoughtful builders, and leave feeling better than ever. \n\n🩱Swimsuit required. \n\nLocation disclosed after RSVP approval. \n\nNo +1's, registration required for entry.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com"
   },
   {
+    "event_name": "Dream Yourself Awake",
+    "start_time": "Sunday, June 8, 2025 at 9:00 AM EDT",
+    "neighborhood": "Virtual (NYC)",
+    "url": "https://partiful.com/e/GiZy4h3mKsC1mxlS5Prp",
+    "hosts": "Network",
+    "target_audiences": "Creators",
+    "themes": "Media / Entertainment",
+    "formats": "Networking",
+    "description": "Good Night New York Tech Week 2025,\n\nAs the week comes to an end, come join us, have a dream and fly in your mind. In the future we may actually meet in a shared form of dreams. \n\nWith so many events already happening, we thought it would be good for you to get some rest, have a good night's sleep and have some fun in your dreams. Sleep in the city that never sleeps. \n\nJoin our virtual space for up to an hour before you go to sleep. We will send the meeting link to those that have signed up to the event.\n\nIf you just want to participate for the lucid dream experience, without doing another meetup, you can also sign up and we will send instructions prior\nto the event. \n\nFeel free to get in touch or comment below if you have any questions.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
+  },
+  {
     "event_name": "Musa Labs Borough Brlitz Hackathon: Midtown (June 6,7,8)",
     "start_time": "Saturday, June 7, 2025 at 9:00 PM EDT",
     "neighborhood": "Midtown",
@@ -121,15 +132,15 @@
     "description": "Move, Energize & Have Fun!\n\nStep into a high-energy Zumba session led by Rasheeda Allan, in collaboration with STEM Recharge & Fabletics! Designed for Tech professionals, this class blends movement, music, and community to refresh your body and mind.\n\nWhat You’ll Get:\n✔️Complimentary in-store dance workout\n✔️ Light refreshments \n✔️Exclusive Fabletics shopping discount\n\nFollow us on IG: STEM Recharge to stay in the loop + join our free community launching soon!\nwww.stemrecharge.com\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
-    "event_name": "Paint & PE",
-    "start_time": "Sunday, June 8, 2025 at 5:00 AM EDT",
+    "event_name": "Paint & PE | | Rytual x Lume Studios",
+    "start_time": "Sunday, June 8, 2025 at 3:00 AM EDT",
     "neighborhood": "SoHo",
-    "url": "Invite Only",
+    "url": "https://partiful.com/e/0gOmyANjj4HOlbtGB8y5",
     "hosts": "Tide Rock",
     "target_audiences": "Investors, Founders ($1-5M Raised)",
     "themes": "AI, GTM, Media / Entertainment",
     "formats": "Experiential",
-    "description": null
+    "description": "Get ready to blur the line between neural networks and brushstrokes at Paint & PE, the ultimate art-meets-AI mashup during New York Tech Week. Dive into a hands-on collision of color and code, where you’ll flex both your creative and computational muscles. Whether you're remixing reality with prompt engineering or expressing your inner algorithm on canvas, this is your chance to explore the edge of human and machine creativity.\n\nExpect brainwaves, brushstrokes, and maybe a few happy little machine-learned accidents. Techies, artists, and the creatively curious—this one’s for you.\n\nThis event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com."
   },
   {
     "event_name": "Culture in Tech",
